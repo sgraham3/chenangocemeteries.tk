@@ -1,4 +1,4 @@
-objectid,parentid,title,creator,date,description,subject,location,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,longitude,latitude
+objectid,filename,title,creator,date,description,subject,location,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,longitude,latitude
 1,,White Farm Plot,,,See Albee Cemetery,cemetery,New Berlin,,,,,,,,,,,,,
 2,,Kit Frink Cemetery,,,See Aldrich Cemetery,cemetery,Norwich,,,,,,,,,,,,,
 3,,Niesh Cemetery,,,See Aldrich Cemetery,cemetery,Norwich,,,,,,,,,,,,,
@@ -340,7 +340,7 @@ objectid,parentid,title,creator,date,description,subject,location,source,identif
 392,,Upper Geneganslet Cemetery,,,,cemetery,Greene,,,,,,,,,,,,-75.80222222,42.34777778
 394,,Upper Phelps Cemetery,,,,cemetery,New Berlin,,,,,,,,,,,,-75.37222222,42.54416667
 395,,Upper Smithville Flats Cemetery,,,,cemetery,Smithville,,,,,,,,,,,,-75.8075,42.39888889
-396,,Valley View Cemetery,,,,cemetery,Otselic,,,,,,,,,,,,-75.78194444,42.64527778
+396,396.jpg,Valley View Cemetery,,,,cemetery,Otselic,,,,,,,,,,,,-75.78194444,42.64527778
 397,,Van Ness Cemetery,,,,cemetery,Greene,,,,,,,,,,,,-75.72777778,42.32
 398,,Van Wagenen Cemetery,,,,cemetery,Oxford,,,,,,,,,,,,-75.58,42.44638889
 399,,Village Cemetery,,,,cemetery,Oxford,,,,,,,,,,,,-75.60222222,42.44333333
