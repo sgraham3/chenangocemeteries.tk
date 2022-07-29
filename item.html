@@ -92,10 +92,6 @@
                 </li>
                 
                 <li class="nav-item">
-                    <a class="nav-link" href="/timeline.html">Timeline</a>
-                </li>
-                
-                <li class="nav-item">
                     <a class="nav-link" href="/data.html">Data</a>
                 </li>
                 
@@ -194,10 +190,6 @@
                     <li class="nav-item">
                     
                         <a class="nav-link text-light" href="/map.html">Map</a>
-                    </li>
-                    <li class="nav-item">
-                    
-                        <a class="nav-link text-light" href="/timeline.html">Timeline</a>
                     </li>
                     <li class="nav-item">
                     
@@ -770,18 +762,6 @@
         }
 
         
-        /* add link to view on timeline */
-        if (record.date) {
-            var itemYear;
-            if (record.date.includes('-')) {
-                itemYear = record.date.split('-')[0];
-            } else if (record.date.includes('/')) {
-                itemYear = record.date.split('/').pop();
-            } else {
-                itemYear = record.date;
-            }
-            itemLink += '<a href="/timeline.html#y' + itemYear + '" class="m-2 btn btn-outline-dark">View on Timeline</a>';
-        }
         /* add link to view on map */ 
         if (record.latitude && record.longitude) {
             itemLink += '<a href="/map.html#' + record.latitude + ',' + record.longitude + '" class="m-2 btn btn-outline-dark">View on Map</a>';

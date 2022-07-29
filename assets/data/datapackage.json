@@ -112,14 +112,6 @@
         },
         
         {
-            "name": "timeline-json",
-            "path": "timelinejs.json",
-            "title": "Chenango County Cemeteries timeline metadata",
-            "description": "Time-based metadata formatted for TimelineJS or other applications.",
-            "format":"json",
-            "profile": "data-resource"
-        },
-        {
             "name": "metadata-csv",
             "path": "metadata.csv",
             "title": "Chenango County Cemeteries full metadata in csv",
