@@ -1,0 +1,8840 @@
+{ "objects": [{ 
+        "title": "White Farm Plot",
+        
+        
+        "description": "See Albee Cemetery",
+        "subject": "cemetery",
+        "location": "New Berlin",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=1"
+    },
+    { 
+        "title": "Kit Frink Cemetery",
+        
+        
+        "description": "See Aldrich Cemetery",
+        "subject": "cemetery",
+        "location": "Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=2"
+    },
+    { 
+        "title": "Niesh Cemetery",
+        
+        
+        "description": "See Aldrich Cemetery",
+        "subject": "cemetery",
+        "location": "Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=3"
+    },
+    { 
+        "title": "David Jackson Cemetery",
+        
+        
+        "description": "See Barnes Cemetery",
+        "subject": "cemetery",
+        "location": "Greene",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=4"
+    },
+    { 
+        "title": "McDonough Town Road Cemetery",
+        
+        
+        "description": "See Beardsley Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=5"
+    },
+    { 
+        "title": "Babcock Plot",
+        
+        
+        "description": "See Beckwith Cemetery",
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=6"
+    },
+    { 
+        "title": "Sipple Farm Cemetery",
+        
+        
+        "description": "See Bixby Cemetery",
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=7"
+    },
+    { 
+        "title": "Nevins Farm Plot",
+        
+        
+        "description": "See Blackman Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=8"
+    },
+    { 
+        "title": "East Afton Cemetery",
+        
+        
+        "description": "See Broad Cemetery",
+        "subject": "cemetery",
+        "location": "Afton",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=9"
+    },
+    { 
+        "title": "Brooks Cemetery",
+        
+        
+        "description": "See Brooksbank Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=10"
+    },
+    { 
+        "title": "East Cemetery",
+        
+        
+        "description": "See Brown Cemetery",
+        "subject": "cemetery",
+        "location": "Plymouth",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=11"
+    },
+    { 
+        "title": "Clark Cemetery",
+        
+        
+        "description": "See Campbell Cemetery",
+        "subject": "cemetery",
+        "location": "Columbus",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=12"
+    },
+    { 
+        "title": "Gross Farm Plot",
+        
+        
+        "description": "See Chapel Cemetery",
+        "subject": "cemetery",
+        "location": "Greene",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=13"
+    },
+    { 
+        "title": "Lambs Cemetery",
+        
+        
+        "description": "See Columbus Corners Cemetery",
+        "subject": "cemetery",
+        "location": "Columbus",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=14"
+    },
+    { 
+        "title": "Shumway Hill Cemetery",
+        
+        
+        "description": "See Cornell Cemetery",
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=15"
+    },
+    { 
+        "title": "Union Cemetery",
+        
+        
+        "description": "See Coventry Cemetery",
+        "subject": "cemetery",
+        "location": "Coventry",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=16"
+    },
+    { 
+        "title": "Dingman Farm Plot",
+        
+        
+        "description": "See Davis Cemetery",
+        "subject": "cemetery",
+        "location": "Smithville",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=17"
+    },
+    { 
+        "title": "Slater Cemetery",
+        
+        
+        "description": "See Donnelly Cemetery",
+        "subject": "cemetery",
+        "location": "Plymouth",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=18"
+    },
+    { 
+        "title": "Baptist Church Cemetery",
+        
+        
+        "description": "See East End Cemetery",
+        "subject": "cemetery",
+        "location": "Smyrna",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=19"
+    },
+    { 
+        "title": "Downey Farm Plot",
+        
+        
+        "description": "See Eccleston Cemetery",
+        "subject": "cemetery",
+        "location": "Preston",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=20"
+    },
+    { 
+        "title": "Fanning Cemetery",
+        
+        
+        "description": "See Eccleston Cemetery",
+        "subject": "cemetery",
+        "location": "Preston",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=21"
+    },
+    { 
+        "title": "Brooks Cemetery",
+        
+        
+        "description": "See Edmonds Cemetery",
+        "subject": "cemetery",
+        "location": "New Berlin",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=22"
+    },
+    { 
+        "title": "Lewis Cemetery",
+        
+        
+        "description": "See Edmonds Cemetery",
+        "subject": "cemetery",
+        "location": "New Berlin",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=23"
+    },
+    { 
+        "title": "Bolster-Edwards Cemetery",
+        
+        
+        "description": "See Edwards Cemetery",
+        "subject": "cemetery",
+        "location": "Pitcher",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=24"
+    },
+    { 
+        "title": "Lower Page Brook Cemetery",
+        
+        
+        "description": "See Elliott Cemetery",
+        "subject": "cemetery",
+        "location": "Greene",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=25"
+    },
+    { 
+        "title": "White Store Cemetery",
+        
+        
+        "description": "See Evergreen Cemetery",
+        "subject": "cemetery",
+        "location": "Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=26"
+    },
+    { 
+        "title": "Sawmill Road Burial Ground",
+        
+        
+        "description": "See Finch Burial Ground",
+        "subject": "cemetery",
+        "location": "Pitcher",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=27"
+    },
+    { 
+        "title": "Trestle Cemetery",
+        
+        
+        "description": "See Foote Cemetery",
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=28"
+    },
+    { 
+        "title": "Harris Cemetery",
+        
+        
+        "description": "See Foster Cemetery",
+        "subject": "cemetery",
+        "location": "Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=29"
+    },
+    { 
+        "title": "Barber Farm Cemetery",
+        
+        
+        "description": "See Giles Cemetery",
+        "subject": "cemetery",
+        "location": "Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=30"
+    },
+    { 
+        "title": "Village Cemetery",
+        
+        
+        "description": "See Greenwood Cemetery",
+        "subject": "cemetery",
+        "location": "New Berlin",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=31"
+    },
+    { 
+        "title": "Barnes Farm Plot",
+        
+        
+        "description": "See Gregory Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=32"
+    },
+    { 
+        "title": "Nineveh Cemetery",
+        
+        
+        "description": "See Guy/Reed Cemetery",
+        "subject": "cemetery",
+        "location": "Afton",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=33"
+    },
+    { 
+        "title": "South Oxford Cemetery",
+        
+        
+        "description": "See Hackett Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=34"
+    },
+    { 
+        "title": "Wilcox Farm Plot",
+        
+        
+        "description": "See Hackett Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=35"
+    },
+    { 
+        "title": "Knapp Cemetery",
+        
+        
+        "description": "See Harris Cemetery",
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=36"
+    },
+    { 
+        "title": "Blackmans Cemetery",
+        
+        
+        "description": "See Headys Corners Cemetery",
+        "subject": "cemetery",
+        "location": "Plymouth",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=37"
+    },
+    { 
+        "title": "Ives Farm Plot",
+        
+        
+        "description": "See Hendrick Cemetery",
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=38"
+    },
+    { 
+        "title": "Chandlers Corners Cemetery",
+        
+        
+        "description": "See Hinman Cemetery",
+        "subject": "cemetery",
+        "location": "Pitcher",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=39"
+    },
+    { 
+        "title": "Elliott Farm Plot",
+        
+        
+        "description": "See Houghton Cemetery",
+        "subject": "cemetery",
+        "location": "Greene",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=40"
+    },
+    { 
+        "title": "Crary Cemetery",
+        
+        
+        "description": "See Huntley Cemetery",
+        "subject": "cemetery",
+        "location": "Columbus",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=41"
+    },
+    { 
+        "title": "Neidlinger Farm Plot",
+        
+        
+        "description": "See Jaquin Cemetery",
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=42"
+    },
+    { 
+        "title": "Stockwell Cemetery",
+        
+        
+        "description": "See Jaquin Cemetery",
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=43"
+    },
+    { 
+        "title": "Fosgate Farm Plot",
+        
+        
+        "description": "See Kenyon Cemetery",
+        "subject": "cemetery",
+        "location": "Pitcher",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=44"
+    },
+    { 
+        "title": "Buell Cemetery",
+        
+        
+        "description": "See King Settlement Cemetery",
+        "subject": "cemetery",
+        "location": "North Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=45"
+    },
+    { 
+        "title": "Follett Cemetery",
+        
+        
+        "description": "See King Settlement Cemetery",
+        "subject": "cemetery",
+        "location": "North Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=46"
+    },
+    { 
+        "title": "Gorham Cemetery",
+        
+        
+        "description": "See King Settlement Cemetery",
+        "subject": "cemetery",
+        "location": "North Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=47"
+    },
+    { 
+        "title": "Gregory Cemetery",
+        
+        
+        "description": "See King Settlement Cemetery",
+        "subject": "cemetery",
+        "location": "North Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=48"
+    },
+    { 
+        "title": "King I Cemetery",
+        
+        
+        "description": "See King Settlement Cemetery",
+        "subject": "cemetery",
+        "location": "North Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=49"
+    },
+    { 
+        "title": "King II Cemetery",
+        
+        
+        "description": "See King Settlement Cemetery",
+        "subject": "cemetery",
+        "location": "North Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=50"
+    },
+    { 
+        "title": "Railroad Cemetery",
+        
+        
+        "description": "See Kirby Cemetery",
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=51"
+    },
+    { 
+        "title": "Gregory Farm Plot",
+        
+        
+        "description": "See Lamphere Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=52"
+    },
+    { 
+        "title": "Lane Hill Cemetery",
+        
+        
+        "description": "See Lane Cemetery",
+        "subject": "cemetery",
+        "location": "Lincklaen",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=53"
+    },
+    { 
+        "title": "Welch Farm Cemetery",
+        
+        
+        "description": "See Lloyd Cemetery",
+        "subject": "cemetery",
+        "location": "Columbus",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=54"
+    },
+    { 
+        "title": "Maple Grove Cemetery",
+        
+        
+        "description": "See Lower Smithville Flats Cemetery",
+        "subject": "cemetery",
+        "location": "Smithville",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=55"
+    },
+    { 
+        "title": "Mount Upton Cemetery",
+        
+        
+        "description": "See Maplewood Cemetery",
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=56"
+    },
+    { 
+        "title": "Petley Cemetery",
+        
+        
+        "description": "See Maplewood Cemetery",
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=57"
+    },
+    { 
+        "title": "Randall-Miles Farm Plot",
+        
+        
+        "description": "See McNitt Cemetery",
+        "subject": "cemetery",
+        "location": "Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=58"
+    },
+    { 
+        "title": "Hull Cemetery",
+        
+        
+        "description": "See Mead Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=59"
+    },
+    { 
+        "title": "Little Falls Cemetery",
+        
+        
+        "description": "See Mead Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=60"
+    },
+    { 
+        "title": "West Cemetery",
+        
+        
+        "description": "See Medbury Cemetery",
+        "subject": "cemetery",
+        "location": "New Berlin",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=61"
+    },
+    { 
+        "title": "Griffin Cemetery",
+        
+        
+        "description": "See Medbury-Arnold Cemetery",
+        "subject": "cemetery",
+        "location": "New Berlin",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=62"
+    },
+    { 
+        "title": "Wright Farm Plot",
+        
+        
+        "description": "See Merrick Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=63"
+    },
+    { 
+        "title": "Church Cemetery",
+        
+        
+        "description": "See Millbrook Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=64"
+    },
+    { 
+        "title": "Robinson Farm Plot",
+        
+        
+        "description": "See Moore Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=65"
+    },
+    { 
+        "title": "Petley Farm Plot",
+        
+        
+        "description": "See Morgan Cemetery",
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=66"
+    },
+    { 
+        "title": "Rockdale Cemetery",
+        
+        
+        "description": "See Morgan Cemetery",
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=67"
+    },
+    { 
+        "title": "Perkins Farm Cemetery",
+        
+        
+        "description": "See Nichols Cemetery",
+        "subject": "cemetery",
+        "location": "Smithville",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=68"
+    },
+    { 
+        "title": "Old Greene Burial Ground",
+        
+        
+        "description": "See North Canal Street Cemetery",
+        "subject": "cemetery",
+        "location": "Greene",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=69"
+    },
+    { 
+        "title": "Barnes Cemetery",
+        
+        
+        "description": "See North Pharsalia Cemetery",
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=70"
+    },
+    { 
+        "title": "Kirk Cemetery",
+        
+        
+        "description": "See North Pharsalia Cemetery",
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=71"
+    },
+    { 
+        "title": "Chapel Cemetery",
+        
+        
+        "description": "See Old Chapel Cemetery",
+        "subject": "cemetery",
+        "location": "Coventry",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=72"
+    },
+    { 
+        "title": "Shapley Farm Plot",
+        
+        
+        "description": "See Padget Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=73"
+    },
+    { 
+        "title": "Palmer's Corners Cemetery",
+        
+        
+        "description": "See Palmer Cemetery",
+        "subject": "cemetery",
+        "location": "Sherburne",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=74"
+    },
+    { 
+        "title": "Prince Farm Cemetery",
+        
+        
+        "description": "See Parks Cemetery",
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=75"
+    },
+    { 
+        "title": "Burr-Hoag Cemetery",
+        
+        
+        "description": "See Phetterplace Cemetery",
+        "subject": "cemetery",
+        "location": "Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=76"
+    },
+    { 
+        "title": "Hoag Cemetery",
+        
+        
+        "description": "See Phetterplace Cemetery",
+        "subject": "cemetery",
+        "location": "Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=77"
+    },
+    { 
+        "title": "Beatty Farm Plot",
+        
+        
+        "description": "See Phillips Cemetery",
+        "subject": "cemetery",
+        "location": "New Berlin",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=78"
+    },
+    { 
+        "title": "Kales Hill Cemetery",
+        
+        
+        "description": "See Pike-Hawkins Cemetery",
+        "subject": "cemetery",
+        "location": "Coventry",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=79"
+    },
+    { 
+        "title": "Close Farm Cemetery",
+        
+        
+        "description": "See Reynolds Cemetery",
+        "subject": "cemetery",
+        "location": "Smyrna",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=80"
+    },
+    { 
+        "title": "Hawley Cemetery",
+        
+        
+        "description": "See Reynolds Cemetery",
+        "subject": "cemetery",
+        "location": "Smyrna",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=81"
+    },
+    { 
+        "title": "Hitesite Cemetery",
+        
+        
+        "description": "See Reynolds Cemetery",
+        "subject": "cemetery",
+        "location": "Smyrna",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=82"
+    },
+    { 
+        "title": "Amblerville Farm Plot",
+        
+        
+        "description": "See Rich-Sage Cemetery",
+        "subject": "cemetery",
+        "location": "New Berlin",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=83"
+    },
+    { 
+        "title": "Plasterville Cemetery",
+        
+        
+        "description": "See Riverside Rural Cemetery",
+        "subject": "cemetery",
+        "location": "North Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=84"
+    },
+    { 
+        "title": "Pleasant View Cemetery",
+        
+        
+        "description": "See Riverview Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=85"
+    },
+    { 
+        "title": "Mason-Packer Cemetery",
+        
+        
+        "description": "See Samuel E. Lewis Cemetery",
+        "subject": "cemetery",
+        "location": "Preston",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=86"
+    },
+    { 
+        "title": "German Hollow Cemetery",
+        
+        
+        "description": "See Seymour Cemetery",
+        "subject": "cemetery",
+        "location": "Plymouth",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=87"
+    },
+    { 
+        "title": "Willoughby Farm Plot",
+        
+        
+        "description": "See Shapley Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=88"
+    },
+    { 
+        "title": "Gould Cemetery",
+        
+        
+        "description": "See Smith Cemetery",
+        "subject": "cemetery",
+        "location": "Preston",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=89"
+    },
+    { 
+        "title": "South Hill Cemetery",
+        
+        
+        "description": "See Smith Cemetery",
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=90"
+    },
+    { 
+        "title": "Wakeman Cemetery",
+        
+        
+        "description": "See Stevens Cemetery",
+        "subject": "cemetery",
+        "location": "Afton",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=91"
+    },
+    { 
+        "title": "Adams Farm Cemetery",
+        
+        
+        "description": "See Stewart's Corners Cemetery",
+        "subject": "cemetery",
+        "location": "Plymouth",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=92"
+    },
+    { 
+        "title": "Warn-Ten Broeck Cemetery",
+        
+        
+        "description": "See Ten Broeck Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=93"
+    },
+    { 
+        "title": "Cook Farm Plot",
+        
+        
+        "description": "See Terwilliger Cemetery",
+        "subject": "cemetery",
+        "location": "Greene",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=94"
+    },
+    { 
+        "title": "Hamilton Farm Plot",
+        
+        
+        "description": "See Tillotson Cemetery",
+        "subject": "cemetery",
+        "location": "McDonough",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=95"
+    },
+    { 
+        "title": "Fairchild Cemetery",
+        
+        
+        "description": "See Towsley-Fairchild Cemetery",
+        "subject": "cemetery",
+        "location": "Smithville",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=96"
+    },
+    { 
+        "title": "Moore Cemetery",
+        
+        
+        "description": "See Towsley-Moore Cemetery",
+        "subject": "cemetery",
+        "location": "Smithville",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=97"
+    },
+    { 
+        "title": "Pond Cemetery",
+        
+        
+        "description": "See Towsley-Pond Cemetery",
+        "subject": "cemetery",
+        "location": "Smithville",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=98"
+    },
+    { 
+        "title": "Keech Cemetery",
+        
+        
+        "description": "See Turner Cemetery",
+        "subject": "cemetery",
+        "location": "Preston",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=99"
+    },
+    { 
+        "title": "Butler Cemetery",
+        
+        
+        "description": "See Twitchell Cemetery",
+        "subject": "cemetery",
+        "location": "McDonough",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=100"
+    },
+    { 
+        "title": "Ingersoll-Rand Cemetery",
+        
+        
+        "description": "See Union Valley Cemetery",
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=101"
+    },
+    { 
+        "title": "Neidlinger Farm Burial Ground",
+        
+        
+        "description": "See Union Valley Cemetery",
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=102"
+    },
+    { 
+        "title": "Smithville Flats Cemetery",
+        
+        
+        "description": "See Upper Smithville Flats Cemetery",
+        "subject": "cemetery",
+        "location": "Smithville",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=103"
+    },
+    { 
+        "title": "State Street Cemetery",
+        
+        
+        "description": "See Village Cemetery",
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=104"
+    },
+    { 
+        "title": "Sherburne Four Corners Cemetery",
+        
+        
+        "description": "See Volmer's Farm Cemetery",
+        "subject": "cemetery",
+        "location": "Sherburne",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=105"
+    },
+    { 
+        "title": "Preston Corners Cemetery",
+        
+        
+        "description": "See Wait Cemetery",
+        "subject": "cemetery",
+        "location": "Preston",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=106"
+    },
+    { 
+        "title": "Skillman Cemetery",
+        
+        
+        "description": "See Waldron Cemetery",
+        "subject": "cemetery",
+        "location": "Smithville",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=107"
+    },
+    { 
+        "title": "Carter Farm Plot",
+        
+        
+        "description": "See Watson Cemetery",
+        "subject": "cemetery",
+        "location": "Greene",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=108"
+    },
+    { 
+        "title": "Four Corners Cemetery",
+        
+        
+        "description": "See Westview Cemetery",
+        "subject": "cemetery",
+        "location": "German",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=109"
+    },
+    { 
+        "title": "Ring Farm Plot",
+        
+        
+        "description": "See Widger Cemetery",
+        "subject": "cemetery",
+        "location": "Preston",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=110"
+    },
+    { 
+        "title": "Willcox Cemetery",
+        
+        
+        "description": "See Wilcok Cemetery",
+        "subject": "cemetery",
+        "location": "Smyrna",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=111"
+    },
+    { 
+        "title": "Upper Tyner Cemetery",
+        
+        
+        "description": "See Willcox Cemetery",
+        "subject": "cemetery",
+        "location": "Smithville",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=112"
+    },
+    { 
+        "title": "Albee Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.64611111",
+        "longitude": "-75.33111111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=113"
+    },
+    { 
+        "title": "Aldrich Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.56083333",
+        "longitude": "-75.45055556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=114"
+    },
+    { 
+        "title": "Arnold Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.6125",
+        "longitude": "-75.35611111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=115"
+    },
+    { 
+        "title": "Ashcraft Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "German",
+        "latitude": "42.47916667",
+        "longitude": "-75.81527778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=116"
+    },
+    { 
+        "title": "Aylesworth Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.62333333",
+        "longitude": "-75.44277778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=117"
+    },
+    { 
+        "title": "Baptist Church Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.29388889",
+        "longitude": "-75.47805556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=118"
+    },
+    { 
+        "title": "Beardsley Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.45388889",
+        "longitude": "-75.64222222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=120"
+    },
+    { 
+        "title": "Beardsley Family Plot",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=121"
+    },
+    { 
+        "title": "Beardsley Farm Plot",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=122"
+    },
+    { 
+        "title": "Beckwith Plot",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.55888889",
+        "longitude": "-75.70361111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=123"
+    },
+    { 
+        "title": "Bellinger Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.60138889",
+        "longitude": "-75.45777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=124"
+    },
+    { 
+        "title": "Benedict Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=125"
+    },
+    { 
+        "title": "Birdsall Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.30805556",
+        "longitude": "-75.80944444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=127"
+    },
+    { 
+        "title": "Bixby Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.28722222",
+        "longitude": "-75.47888889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=128"
+    },
+    { 
+        "title": "Blackman Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.45916667",
+        "longitude": "-75.58055556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=129"
+    },
+    { 
+        "title": "Bloom Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "North Norwich",
+        "latitude": "42.60138889",
+        "longitude": "-75.45777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=130"
+    },
+    { 
+        "title": "Bly Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.31805556",
+        "longitude": "-75.72833333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=131"
+    },
+    { 
+        "title": "Bonney Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.60138889",
+        "longitude": "-75.45777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=132"
+    },
+    { 
+        "title": "Bosworth Farm Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.57833333",
+        "longitude": "-75.72055556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=133"
+    },
+    { 
+        "title": "Brackel (Church) Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.55361111",
+        "longitude": "-75.83777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=134"
+    },
+    { 
+        "title": "Brisben Baptist Church Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.36694444",
+        "longitude": "-75.67972222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=135"
+    },
+    { 
+        "title": "Broad Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Afton",
+        "latitude": "42.21611111",
+        "longitude": "-75.42777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=136"
+    },
+    { 
+        "title": "Brooksbank Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.39055556",
+        "longitude": "-75.56444444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=137"
+    },
+    { 
+        "title": "Brown Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.56305556",
+        "longitude": "-75.75027778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=138"
+    },
+    { 
+        "title": "Brown Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Plymouth",
+        "latitude": "42.63",
+        "longitude": "-75.59777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=139"
+    },
+    { 
+        "title": "Brown Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.51083333",
+        "longitude": "-75.63416667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=140"
+    },
+    { 
+        "title": "Burdick Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.58194444",
+        "longitude": "-75.78722222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=141"
+    },
+    { 
+        "title": "Button Burial Plot",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.54888889",
+        "longitude": "-75.70361111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=143"
+    },
+    { 
+        "title": "Campbell Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.70055556",
+        "longitude": "-75.40222222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=144"
+    },
+    { 
+        "title": "Carter School House Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.71388889",
+        "longitude": "-75.36111111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=145"
+    },
+    { 
+        "title": "Champlin Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.54888889",
+        "longitude": "-75.68888889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=147"
+    },
+    { 
+        "title": "Chapin Hill Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=149"
+    },
+    { 
+        "title": "Chase Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=150"
+    },
+    { 
+        "title": "Christ Church Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.68",
+        "longitude": "-75.49472222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=151"
+    },
+    { 
+        "title": "Clark Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=153"
+    },
+    { 
+        "title": "Cline, F. Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.42861111",
+        "longitude": "-75.70416667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=154"
+    },
+    { 
+        "title": "Cline, P. Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.43611111",
+        "longitude": "-75.85277778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=155"
+    },
+    { 
+        "title": "Cole Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.52277778",
+        "longitude": "-75.38833333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=156"
+    },
+    { 
+        "title": "Collins Farm Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=158"
+    },
+    { 
+        "title": "Columbus Corners Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.68277778",
+        "longitude": "-75.32861111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=160"
+    },
+    { 
+        "title": "Colwell Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Plymouth",
+        "latitude": "42.56972222",
+        "longitude": "-75.565",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=161"
+    },
+    { 
+        "title": "Congregational Church Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.29138889",
+        "longitude": "-75.47805556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=162"
+    },
+    { 
+        "title": "Coon Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.61277778",
+        "longitude": "-75.43916667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=163"
+    },
+    { 
+        "title": "Cooper Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.36138889",
+        "longitude": "-75.50027778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=164"
+    },
+    { 
+        "title": "Cornell Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.4525",
+        "longitude": "-75.43694444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=166"
+    },
+    { 
+        "title": "Corning Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.56027778",
+        "longitude": "-75.82972222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=167"
+    },
+    { 
+        "title": "Coventry Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Coventry",
+        "latitude": "42.315",
+        "longitude": "-75.63444444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=168"
+    },
+    { 
+        "title": "Coventryville Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Coventry",
+        "latitude": "42.31194444",
+        "longitude": "-75.59777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=169"
+    },
+    { 
+        "title": "Cox Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Plymouth",
+        "latitude": "42.63361111",
+        "longitude": "-75.60583333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=171"
+    },
+    { 
+        "title": "Crane Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.58416667",
+        "longitude": "-75.77666667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=172"
+    },
+    { 
+        "title": "Cummings Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=173"
+    },
+    { 
+        "title": "Curtis Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.44611111",
+        "longitude": "-75.58055556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=174"
+    },
+    { 
+        "title": "Curtiss Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.49472222",
+        "longitude": "-75.63388889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=175"
+    },
+    { 
+        "title": "Daniel Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.54972222",
+        "longitude": "-75.66388889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=176"
+    },
+    { 
+        "title": "Davis Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.30638889",
+        "longitude": "-75.51888889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=177"
+    },
+    { 
+        "title": "Davis Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.48083333",
+        "longitude": "-75.53083333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=178"
+    },
+    { 
+        "title": "Davis Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.43611111",
+        "longitude": "-75.85277778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=179"
+    },
+    { 
+        "title": "Deshom Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=180"
+    },
+    { 
+        "title": "Donnelly Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Plymouth",
+        "latitude": "42.55611111",
+        "longitude": "-75.58777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=181"
+    },
+    { 
+        "title": "Dorman Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.41472222",
+        "longitude": "-75.50555556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=182"
+    },
+    { 
+        "title": "Dunkin Plot",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "North Norwich",
+        "latitude": "42.63861111",
+        "longitude": "-75.48944444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=183"
+    },
+    { 
+        "title": "Dutch Hill Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "German",
+        "latitude": "42.475",
+        "longitude": "-75.77805556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=184"
+    },
+    { 
+        "title": "East Side Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Afton",
+        "latitude": "42.22574703",
+        "longitude": "-75.51805532",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=190"
+    },
+    { 
+        "title": "Eccleston Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=191"
+    },
+    { 
+        "title": "Eddy Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.45388889",
+        "longitude": "-75.75666667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=192"
+    },
+    { 
+        "title": "Edmonds Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.57222222",
+        "longitude": "-75.40083333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=193"
+    },
+    { 
+        "title": "Edwards Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.54111111",
+        "longitude": "-75.8775",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=194"
+    },
+    { 
+        "title": "English Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.26527778",
+        "longitude": "-75.81777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=196"
+    },
+    { 
+        "title": "Enos Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.445",
+        "longitude": "-75.58166667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=197"
+    },
+    { 
+        "title": "Evergreen Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.48333333",
+        "longitude": "-75.40722222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=198"
+    },
+    { 
+        "title": "Fairview Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.62833333",
+        "longitude": "-75.395",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=199"
+    },
+    { 
+        "title": "Fenner Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.59861111",
+        "longitude": "-75.395",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=200"
+    },
+    { 
+        "title": "Ferris #1 Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.68638889",
+        "longitude": "-75.63611111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=201"
+    },
+    { 
+        "title": "Ferris #2 Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.66444444",
+        "longitude": "-75.64277778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=202"
+    },
+    { 
+        "title": "Finch Burial Ground",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.59582741",
+        "longitude": "-75.8408327",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=203"
+    },
+    { 
+        "title": "First Baptist Church Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Afton",
+        "latitude": "42.23014107",
+        "longitude": "-75.52507917",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=204"
+    },
+    { 
+        "title": "First Settler's Burial Ground",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.68277778",
+        "longitude": "-75.57277778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=205"
+    },
+    { 
+        "title": "Flint Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "German",
+        "latitude": "42.53111111",
+        "longitude": "-75.80388889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=206"
+    },
+    { 
+        "title": "Fly Meadow Creek Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.52111111",
+        "longitude": "-75.61555556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=207"
+    },
+    { 
+        "title": "Foote Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.37722222",
+        "longitude": "-75.43944444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=208"
+    },
+    { 
+        "title": "Ford Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "German",
+        "latitude": "42.45861111",
+        "longitude": "-75.83916667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=209"
+    },
+    { 
+        "title": "Foster Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.52305556",
+        "longitude": "-75.55472222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=210"
+    },
+    { 
+        "title": "Franklin #1 Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.54527778",
+        "longitude": "-75.6625",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=211"
+    },
+    { 
+        "title": "Franklin #2 Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.54083333",
+        "longitude": "-75.65",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=212"
+    },
+    { 
+        "title": "Frink Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.61472222",
+        "longitude": "-75.69027778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=214"
+    },
+    { 
+        "title": "Gale Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        "latitude": "42.51944444",
+        "longitude": "-75.69611111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=215"
+    },
+    { 
+        "title": "Gale Farm Plot",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=216"
+    },
+    { 
+        "title": "Gates Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.48222222",
+        "longitude": "-75.54638889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=217"
+    },
+    { 
+        "title": "Giles Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.47277778",
+        "longitude": "-75.54361111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=219"
+    },
+    { 
+        "title": "Godfrey Corners Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.42333333",
+        "longitude": "-75.44083333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=221"
+    },
+    { 
+        "title": "Green Lawn Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.29861111",
+        "longitude": "-75.485",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=223"
+    },
+    { 
+        "title": "Greenwood Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.62972222",
+        "longitude": "-75.33083333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=224"
+    },
+    { 
+        "title": "Gregory Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.4575",
+        "longitude": "-75.54638889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=225"
+    },
+    { 
+        "title": "Griswold Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "German",
+        "latitude": "42.48",
+        "longitude": "-75.83694444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=226"
+    },
+    { 
+        "title": "Grove Park Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "North Norwich",
+        "latitude": "42.56111111",
+        "longitude": "-75.53",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=227"
+    },
+    { 
+        "title": "Guilford Center Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.40833333",
+        "longitude": "-75.46527778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=228"
+    },
+    { 
+        "title": "Guy/Reed Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Afton",
+        "latitude": "42.21305556",
+        "longitude": "-75.57333333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=229"
+    },
+    { 
+        "title": "Hackett Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.41527778",
+        "longitude": "-75.62777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=230"
+    },
+    { 
+        "title": "Hall Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.5125",
+        "longitude": "-75.60166667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=231"
+    },
+    { 
+        "title": "Hamilton Farm Plot",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=232"
+    },
+    { 
+        "title": "Harris Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=233"
+    },
+    { 
+        "title": "Harvey Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.54638889",
+        "longitude": "-75.82333333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=235"
+    },
+    { 
+        "title": "Hendrick Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=237"
+    },
+    { 
+        "title": "Hinman Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.58765618",
+        "longitude": "-75.84887361",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=238"
+    },
+    { 
+        "title": "Horton Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.37138889",
+        "longitude": "-75.8025",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=240"
+    },
+    { 
+        "title": "Houghton Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.29527778",
+        "longitude": "-75.78694444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=241"
+    },
+    { 
+        "title": "Howard Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.72722222",
+        "longitude": "-75.42944444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=242"
+    },
+    { 
+        "title": "Huntley Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.73388889",
+        "longitude": "-75.37472222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=243"
+    },
+    { 
+        "title": "Indian Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "German",
+        "latitude": "42.49361111",
+        "longitude": "-75.84416667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=244"
+    },
+    { 
+        "title": "Jaquin Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.33388889",
+        "longitude": "-75.4725",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=246"
+    },
+    { 
+        "title": "John D. Lewis Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.53027778",
+        "longitude": "-75.63888889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=247"
+    },
+    { 
+        "title": "Jennison Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.48722222",
+        "longitude": "-75.48666667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=248"
+    },
+    { 
+        "title": "Kendricks Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.66666667",
+        "longitude": "-75.44305556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=249"
+    },
+    { 
+        "title": "Kenyon Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.56083333",
+        "longitude": "-75.82555556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=250"
+    },
+    { 
+        "title": "Kirby Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.26111111",
+        "longitude": "-75.48611111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=252"
+    },
+    { 
+        "title": "Lamphere Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.41861111",
+        "longitude": "-75.54138889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=254"
+    },
+    { 
+        "title": "Lane Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Lincklaen",
+        "latitude": "42.66274761",
+        "longitude": "-75.86920441",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=255"
+    },
+    { 
+        "title": "Latham Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=256"
+    },
+    { 
+        "title": "Lewis Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        "latitude": "42.49944444",
+        "longitude": "-75.78055556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=258"
+    },
+    { 
+        "title": "Lloyd Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.70861111",
+        "longitude": "-75.31722222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=260"
+    },
+    { 
+        "title": "Lord Burial Ground",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.56805556",
+        "longitude": "-75.8125",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=262"
+    },
+    { 
+        "title": "Lord Burial Plot",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.57555556",
+        "longitude": "-75.79055556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=263"
+    },
+    { 
+        "title": "Lower Phelps Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.54027778",
+        "longitude": "-75.37361111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=265"
+    },
+    { 
+        "title": "Lower Smithville Flats Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.38888889",
+        "longitude": "-75.80777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=266"
+    },
+    { 
+        "title": "Maplewood Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.41472222",
+        "longitude": "-75.38083333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=268"
+    },
+    { 
+        "title": "McNitt Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.49777778",
+        "longitude": "-75.51416667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=269"
+    },
+    { 
+        "title": "Mead Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.39416667",
+        "longitude": "-75.60416667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=270"
+    },
+    { 
+        "title": "Medbury Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.60861111",
+        "longitude": "-75.40277778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=271"
+    },
+    { 
+        "title": "Medbury-Arnold Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.62777778",
+        "longitude": "-75.63222222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=272"
+    },
+    { 
+        "title": "Merrick Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.37361111",
+        "longitude": "-75.56388889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=274"
+    },
+    { 
+        "title": "Miller Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.39083333",
+        "longitude": "-75.6225",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=276"
+    },
+    { 
+        "title": "Mollie Burial Plot",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.56",
+        "longitude": "-75.75194444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=278"
+    },
+    { 
+        "title": "Monroe Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.56722222",
+        "longitude": "-75.68305556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=279"
+    },
+    { 
+        "title": "Moore Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.40861111",
+        "longitude": "-75.57361111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=281"
+    },
+    { 
+        "title": "Morgan Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.39055556",
+        "longitude": "-75.405",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=282"
+    },
+    { 
+        "title": "Mount Hope Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.51777778",
+        "longitude": "-75.52527778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=284"
+    },
+    { 
+        "title": "Nash Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "German",
+        "latitude": "42.49472222",
+        "longitude": "-75.80444444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=285"
+    },
+    { 
+        "title": "Neff Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.5619327",
+        "longitude": "-75.75764027",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=286"
+    },
+    { 
+        "title": "Newton Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.61555556",
+        "longitude": "-75.73111111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=287"
+    },
+    { 
+        "title": "Nichols Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.43666667",
+        "longitude": "-75.69194444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=288"
+    },
+    { 
+        "title": "North Afton Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Afton",
+        "latitude": "42.27361111",
+        "longitude": "-75.54166667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=289"
+    },
+    { 
+        "title": "North Canal Street Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.33277778",
+        "longitude": "-75.76888889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=290"
+    },
+    { 
+        "title": "North Guilford Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.4525",
+        "longitude": "-75.47472222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=291"
+    },
+    { 
+        "title": "North Pharsalia Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.60944444",
+        "longitude": "-75.70027778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=294"
+    },
+    { 
+        "title": "North Side Burying Ground",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Plymouth",
+        "latitude": "42.62944444",
+        "longitude": "-75.61555556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=295"
+    },
+    { 
+        "title": "Norwich Quarter Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.555",
+        "longitude": "-75.46694444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=297"
+    },
+    { 
+        "title": "Old Burlingame Burial Ground",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.52055556",
+        "longitude": "-75.515",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=299"
+    },
+    { 
+        "title": "Padget Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.39916667",
+        "longitude": "-75.5575",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=302"
+    },
+    { 
+        "title": "Palmer Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.74027778",
+        "longitude": "-75.44",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=303"
+    },
+    { 
+        "title": "Parks Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.30166667",
+        "longitude": "-75.45361111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=304"
+    },
+    { 
+        "title": "Pearsall Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.30916667",
+        "longitude": "-75.45027778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=305"
+    },
+    { 
+        "title": "Pendleton Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.70055556",
+        "longitude": "-75.40222222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=306"
+    },
+    { 
+        "title": "Pendleton Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.48972222",
+        "longitude": "-75.52444444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=307"
+    },
+    { 
+        "title": "Perkins Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=309"
+    },
+    { 
+        "title": "Perry Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.59361111",
+        "longitude": "-75.67277778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=311"
+    },
+    { 
+        "title": "Phetteplace Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        "latitude": "42.53222222",
+        "longitude": "-75.72722222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=312"
+    },
+    { 
+        "title": "Phetterplace Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.48222222",
+        "longitude": "-75.45805556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=313"
+    },
+    { 
+        "title": "Phillips Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.54027778",
+        "longitude": "-75.39722222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=314"
+    },
+    { 
+        "title": "Phillips #2 Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.63888889",
+        "longitude": "-75.55833333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=315"
+    },
+    { 
+        "title": "Pike-Hawkins Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Coventry",
+        "latitude": "42.315",
+        "longitude": "-75.63444444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=316"
+    },
+    { 
+        "title": "Pitcher Congregational Church Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.58111111",
+        "longitude": "-75.85972222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=318"
+    },
+    { 
+        "title": "Presbyterian (now Episcopalian) Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        "latitude": "42.49805556",
+        "longitude": "-75.78055556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=319"
+    },
+    { 
+        "title": "Prosser Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=320"
+    },
+    { 
+        "title": "Quaker Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.67805556",
+        "longitude": "-75.57444444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=321"
+    },
+    { 
+        "title": "Ramsdale Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.73888889",
+        "longitude": "-75.44388889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=323"
+    },
+    { 
+        "title": "Reynolds Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.66803179",
+        "longitude": "-75.56362343",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=325"
+    },
+    { 
+        "title": "Rhode Island Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Lincklaen",
+        "latitude": "42.67305556",
+        "longitude": "-75.80138889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=326"
+    },
+    { 
+        "title": "Rich-Sage Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.5375",
+        "longitude": "-75.535",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=327"
+    },
+    { 
+        "title": "Riverside #1 Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.52361111",
+        "longitude": "-75.38833333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=328"
+    },
+    { 
+        "title": "Riverside #2 Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.52444444",
+        "longitude": "-75.38944444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=329"
+    },
+    { 
+        "title": "Riverside Rural Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "North Norwich",
+        "latitude": "42.58666667",
+        "longitude": "-75.52666667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=330"
+    },
+    { 
+        "title": "Robbins Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Otselic",
+        "latitude": "42.68972222",
+        "longitude": "-75.69166667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=332"
+    },
+    { 
+        "title": "Robbins Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.65055556",
+        "longitude": "-75.42694444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=333"
+    },
+    { 
+        "title": "Robinson Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.58861111",
+        "longitude": "-75.39361111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=334"
+    },
+    { 
+        "title": "Rogers Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.50972222",
+        "longitude": "-75.63444444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=335"
+    },
+    { 
+        "title": "Ross Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.44194444",
+        "longitude": "-75.59972222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=336"
+    },
+    { 
+        "title": "Rounds Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.38388889",
+        "longitude": "-75.57694444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=337"
+    },
+    { 
+        "title": "Saint Andrew's Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.62138889",
+        "longitude": "-75.33388889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=338"
+    },
+    { 
+        "title": "Saint Joseph's Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.44277778",
+        "longitude": "-75.60555556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=339"
+    },
+    { 
+        "title": "Saint Malachy's Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.69027778",
+        "longitude": "-75.47972222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=340"
+    },
+    { 
+        "title": "Saint Paul's Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.55916667",
+        "longitude": "-75.5275",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=341"
+    },
+    { 
+        "title": "Saint Peter's Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.29111111",
+        "longitude": "-75.48111111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=342"
+    },
+    { 
+        "title": "Samuel E. Lewis Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.48944444",
+        "longitude": "-75.59111111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=343"
+    },
+    { 
+        "title": "Scribner Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.59388889",
+        "longitude": "-75.33722222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=344"
+    },
+    { 
+        "title": "Seventh Day Baptist Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.50944444",
+        "longitude": "-75.63388889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=345"
+    },
+    { 
+        "title": "Seymour Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Plymouth",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=347"
+    },
+    { 
+        "title": "Shapley Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.40638889",
+        "longitude": "-75.55944444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=348"
+    },
+    { 
+        "title": "Sherman Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.58472222",
+        "longitude": "-75.41694444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=349"
+    },
+    { 
+        "title": "Sherwood Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.45111111",
+        "longitude": "-75.62222222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=350"
+    },
+    { 
+        "title": "Skillman Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=351"
+    },
+    { 
+        "title": "Smith Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.34222222",
+        "longitude": "-75.45833333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=352"
+    },
+    { 
+        "title": "Smith Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=353"
+    },
+    { 
+        "title": "Smith Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.48111111",
+        "longitude": "-75.56388889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=354"
+    },
+    { 
+        "title": "Soper Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.57972222",
+        "longitude": "-75.82111111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=355"
+    },
+    { 
+        "title": "South Plymouth Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Plymouth",
+        "latitude": "42.57638889",
+        "longitude": "-75.5525",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=356"
+    },
+    { 
+        "title": "Stafford Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.46861111",
+        "longitude": "-75.63027778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=358"
+    },
+    { 
+        "title": "Stanbro Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Otselic",
+        "latitude": "42.67694444",
+        "longitude": "-75.68916667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=359"
+    },
+    { 
+        "title": "Stead Farm Plot",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=360"
+    },
+    { 
+        "title": "Stebbins Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.66222222",
+        "longitude": "-75.62472222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=361"
+    },
+    { 
+        "title": "Steere Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        "latitude": "42.52555556",
+        "longitude": "-75.66694444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=362"
+    },
+    { 
+        "title": "Steere Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.64888889",
+        "longitude": "-75.33111111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=363"
+    },
+    { 
+        "title": "Stevens Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Afton",
+        "latitude": "42.20527778",
+        "longitude": "-75.62222222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=364"
+    },
+    { 
+        "title": "Stewart's Corners Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Plymouth",
+        "latitude": "42.60444444",
+        "longitude": "-75.58583333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=365"
+    },
+    { 
+        "title": "Stover Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.65580108",
+        "longitude": "-75.56958346",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=366"
+    },
+    { 
+        "title": "Sunset Hill Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.40638889",
+        "longitude": "-75.49805556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=367"
+    },
+    { 
+        "title": "Sylvan Lawn Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.32666667",
+        "longitude": "-75.76111111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=368"
+    },
+    { 
+        "title": "Ten Broeck Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.37611111",
+        "longitude": "-75.65555556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=370"
+    },
+    { 
+        "title": "Terwilliger Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.25222222",
+        "longitude": "-75.82527778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=371"
+    },
+    { 
+        "title": "Tiffany Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "North Norwich",
+        "latitude": "42.58694444",
+        "longitude": "-75.45777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=372"
+    },
+    { 
+        "title": "Tillotsen Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.25333333",
+        "longitude": "-75.72944444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=373"
+    },
+    { 
+        "title": "Tillotson Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.72361111",
+        "longitude": "-75.42583333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=374"
+    },
+    { 
+        "title": "Tillotson Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=375"
+    },
+    { 
+        "title": "Towsley-Fairchild Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.43333333",
+        "longitude": "-75.7475",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=376"
+    },
+    { 
+        "title": "Towsley-Moore Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.42777778",
+        "longitude": "-75.7325",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=377"
+    },
+    { 
+        "title": "Towsley-Pond Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.42277778",
+        "longitude": "-75.72861111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=378"
+    },
+    { 
+        "title": "Tremain Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.36138889",
+        "longitude": "-75.68222222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=379"
+    },
+    { 
+        "title": "Tucker Burial Plot",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=380"
+    },
+    { 
+        "title": "Twitchell Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        "latitude": "42.5125",
+        "longitude": "-75.72361111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=382"
+    },
+    { 
+        "title": "Union Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        "latitude": "42.49972222",
+        "longitude": "-75.77166667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=384"
+    },
+    { 
+        "title": "Union Valley Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=385"
+    },
+    { 
+        "title": "Unknown Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=386"
+    },
+    { 
+        "title": "Unnamed #1 Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        "latitude": "42.54083333",
+        "longitude": "-75.69388889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=387"
+    },
+    { 
+        "title": "Unnamed #1 Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=388"
+    },
+    { 
+        "title": "Unnamed #2 Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        "latitude": "42.49805556",
+        "longitude": "-75.76666667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=389"
+    },
+    { 
+        "title": "Unnamed #2 Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=390"
+    },
+    { 
+        "title": "Unnamed #3 Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        "latitude": "42.47444444",
+        "longitude": "-75.72694444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=391"
+    },
+    { 
+        "title": "Upper Geneganslet Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.34777778",
+        "longitude": "-75.80222222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=392"
+    },
+    { 
+        "title": "Upper Phelps Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.54416667",
+        "longitude": "-75.37222222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=394"
+    },
+    { 
+        "title": "Upper Smithville Flats Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.39888889",
+        "longitude": "-75.8075",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=395"
+    },
+    { 
+        "title": "Valley View Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Otselic",
+        "latitude": "42.64527778",
+        "longitude": "-75.78194444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=396"
+    },
+    { 
+        "title": "Van Ness Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.32",
+        "longitude": "-75.72777778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=397"
+    },
+    { 
+        "title": "Van Wagenen Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.44638889",
+        "longitude": "-75.58",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=398"
+    },
+    { 
+        "title": "Village Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.44333333",
+        "longitude": "-75.60222222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=399"
+    },
+    { 
+        "title": "Volmer's Farm Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=400"
+    },
+    { 
+        "title": "Vroman Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.59166667",
+        "longitude": "-75.70111111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=401"
+    },
+    { 
+        "title": "Wait Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.53222222",
+        "longitude": "-75.62388889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=402"
+    },
+    { 
+        "title": "Waldron Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.42361111",
+        "longitude": "-75.78527778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=403"
+    },
+    { 
+        "title": "Watson Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.33833333",
+        "longitude": "-75.7625",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=404"
+    },
+    { 
+        "title": "Wayside Rest Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.51",
+        "longitude": "-75.78638889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=405"
+    },
+    { 
+        "title": "Wells Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.50805556",
+        "longitude": "-75.56805556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=406"
+    },
+    { 
+        "title": "West Bainbridge Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.32222222",
+        "longitude": "-75.53583333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=407"
+    },
+    { 
+        "title": "Westview Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "German",
+        "latitude": "42.49166667",
+        "longitude": "-75.86166667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=410"
+    },
+    { 
+        "title": "Whipple Farm Plot",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=411"
+    },
+    { 
+        "title": "White Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.56777778",
+        "longitude": "-75.69611111",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=413"
+    },
+    { 
+        "title": "Whitmarsh Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.36861111",
+        "longitude": "-75.80166667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=414"
+    },
+    { 
+        "title": "Widger Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.49083333",
+        "longitude": "-75.64694444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=415"
+    },
+    { 
+        "title": "Wightman Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.56194444",
+        "longitude": "-75.40166667",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=416"
+    },
+    { 
+        "title": "Wilcox Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.42638889",
+        "longitude": "-75.64083333",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=418"
+    },
+    { 
+        "title": "Willard Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.24972222",
+        "longitude": "-75.82805556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=420"
+    },
+    { 
+        "title": "WRC (New York State) Veterans Home Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.44611111",
+        "longitude": "-75.5775",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=424"
+    },
+    { 
+        "title": "Wyatt Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "German",
+        "latitude": "42.53166667",
+        "longitude": "-75.81555556",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=425"
+    },
+    { 
+        "title": "Yale Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "McDonough",
+        "latitude": "42.52638889",
+        "longitude": "-75.76138889",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=428"
+    },
+    { 
+        "title": "Yaleville Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.36138889",
+        "longitude": "-75.50027778",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=429"
+    },
+    { 
+        "title": "Yeomans Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.51722222",
+        "longitude": "-75.62222222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=430"
+    },
+    { 
+        "title": "Glenwood Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Afton",
+        "latitude": "42.231713",
+        "longitude": "-75.532377",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=433"
+    },
+    { 
+        "title": "Church Hollow Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Afton",
+        "latitude": "42.216403",
+        "longitude": "-75.61821",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=436"
+    },
+    { 
+        "title": "Melondy Hill Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Afton",
+        "latitude": "42.202893",
+        "longitude": "-75.464951",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=438"
+    },
+    { 
+        "title": "West Bainbridge Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.322701",
+        "longitude": "-75.535379",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=441"
+    },
+    { 
+        "title": "Bush Family Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.301053",
+        "longitude": "-75.466879",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=442"
+    },
+    { 
+        "title": "Bennettsville Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Bainbridge",
+        "latitude": "42.256631",
+        "longitude": "-75.450079",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=444"
+    },
+    { 
+        "title": "Campbell Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.700376",
+        "longitude": "-75.402199",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=446"
+    },
+    { 
+        "title": "Millers Corner Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.709668",
+        "longitude": "-75.359938",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=447"
+    },
+    { 
+        "title": "Perkins Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.703438",
+        "longitude": "-75.3209",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=448"
+    },
+    { 
+        "title": "Columbus Quarter Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.709497",
+        "longitude": "-75.317902",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=449"
+    },
+    { 
+        "title": "Columbus Center Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.673693",
+        "longitude": "-75.364597",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=450"
+    },
+    { 
+        "title": "Lambs Corners Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.682858",
+        "longitude": "-75.328071",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=451"
+    },
+    { 
+        "title": "Cemetery/george Page Farm",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Columbus",
+        "latitude": "42.64497",
+        "longitude": "-75.367016",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=452"
+    },
+    { 
+        "title": "Coventry Cemetery Assocn",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Coventry",
+        "latitude": "42.315036",
+        "longitude": "-75.633956",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=453"
+    },
+    { 
+        "title": "Coventry Union Cemetery Assoc",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Coventry",
+        "latitude": "42.314626",
+        "longitude": "-75.63357",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=454"
+    },
+    { 
+        "title": "Coventryville Cemetery Assoc",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Coventry",
+        "latitude": "42.312925",
+        "longitude": "-75.598147",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=455"
+    },
+    { 
+        "title": "Wylie Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Coventry",
+        "latitude": "42.28584",
+        "longitude": "-75.638471",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=456"
+    },
+    { 
+        "title": "Old Chapel Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Coventry",
+        "latitude": "42.283964",
+        "longitude": "-75.658145",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=457"
+    },
+    { 
+        "title": "Zemanick, John B",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "German",
+        "latitude": "42.466823",
+        "longitude": "-75.792786",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=458"
+    },
+    { 
+        "title": "Barnes Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.349325",
+        "longitude": "-75.844354",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=461"
+    },
+    { 
+        "title": "Cummings Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.363793",
+        "longitude": "-75.771482",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=462"
+    },
+    { 
+        "title": "Tillotson Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.352681",
+        "longitude": "-75.728995",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=463"
+    },
+    { 
+        "title": "Morse Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.327462",
+        "longitude": "-75.80203",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=465"
+    },
+    { 
+        "title": "Lower Geneganslet Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.299159",
+        "longitude": "-75.805349",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=468"
+    },
+    { 
+        "title": "Winston Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.280822",
+        "longitude": "-75.737331",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=469"
+    },
+    { 
+        "title": "Upper Page Brook Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.294543",
+        "longitude": "-75.712494",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=470"
+    },
+    { 
+        "title": "Elliott Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.259051",
+        "longitude": "-75.763175",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=471"
+    },
+    { 
+        "title": "Oak Grove Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Greene",
+        "latitude": "42.249515",
+        "longitude": "-75.828423",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=472"
+    },
+    { 
+        "title": "Shumway Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.452608",
+        "longitude": "-75.475258",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=473"
+    },
+    { 
+        "title": "Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.412498",
+        "longitude": "-75.504019",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=474"
+    },
+    { 
+        "title": "Town Of Guilford",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.4259",
+        "longitude": "-75.381843",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=477"
+    },
+    { 
+        "title": "Mount Upton Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.415103",
+        "longitude": "-75.380312",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=478"
+    },
+    { 
+        "title": "Gospel Hill Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.406124",
+        "longitude": "-75.515437",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=479"
+    },
+    { 
+        "title": "Guilford Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.407959",
+        "longitude": "-75.497887",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=481"
+    },
+    { 
+        "title": "Rockdale Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.390102",
+        "longitude": "-75.404963",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=482"
+    },
+    { 
+        "title": "Ives Settlement Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.378787",
+        "longitude": "-75.45867",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=483"
+    },
+    { 
+        "title": "Trestle Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.377396",
+        "longitude": "-75.438931",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=484"
+    },
+    { 
+        "title": "Yale Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.34937",
+        "longitude": "-75.512998",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=485"
+    },
+    { 
+        "title": "Yaleville Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.361347",
+        "longitude": "-75.500625",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=486"
+    },
+    { 
+        "title": "Cooper Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.347751",
+        "longitude": "-75.489239",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=487"
+    },
+    { 
+        "title": "White Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.359015",
+        "longitude": "-75.452381",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=488"
+    },
+    { 
+        "title": "East Guilford Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.340929",
+        "longitude": "-75.405863",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=489"
+    },
+    { 
+        "title": "Guilford Historical Society",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Guilford",
+        "latitude": "42.391553",
+        "longitude": "-75.516369",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=493"
+    },
+    { 
+        "title": "Red School House Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Lincklaen",
+        "latitude": "42.719215",
+        "longitude": "-75.887274",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=494"
+    },
+    { 
+        "title": "Lincklaen Center Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Lincklaen",
+        "latitude": "42.710026",
+        "longitude": "-75.84954",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=495"
+    },
+    { 
+        "title": "Woodlawn Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Lincklaen",
+        "latitude": "42.672199",
+        "longitude": "-75.870564",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=496"
+    },
+    { 
+        "title": "Freeman Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Lincklaen",
+        "latitude": "42.645863",
+        "longitude": "-75.85797",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=498"
+    },
+    { 
+        "title": "Union Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Mcdonough",
+        "latitude": "42.501245",
+        "longitude": "-75.771623",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=499"
+    },
+    { 
+        "title": "Miller-Gale Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Mcdonough",
+        "latitude": "42.511775",
+        "longitude": "-75.687478",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=500"
+    },
+    { 
+        "title": "Lewis Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Mcdonough",
+        "latitude": "42.49987",
+        "longitude": "-75.768055",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=501"
+    },
+    { 
+        "title": "Presbyterian Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Mcdonough",
+        "latitude": "42.499604",
+        "longitude": "-75.768118",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=502"
+    },
+    { 
+        "title": "Corbin Cemetary",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Mcdonough",
+        "latitude": "42.482334",
+        "longitude": "-75.684951",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=503"
+    },
+    { 
+        "title": "Moore Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Mcdonough",
+        "latitude": "42.466615",
+        "longitude": "-75.686203",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=504"
+    },
+    { 
+        "title": "Steere Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Mcdonough",
+        "latitude": "42.525485",
+        "longitude": "-75.669835",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=505"
+    },
+    { 
+        "title": "Fairview Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.621522",
+        "longitude": "-75.335535",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=507"
+    },
+    { 
+        "title": "Medbury Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.629107",
+        "longitude": "-75.382341",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=509"
+    },
+    { 
+        "title": "Dyer Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.612034",
+        "longitude": "-75.415513",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=510"
+    },
+    { 
+        "title": "Wightman Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.562265",
+        "longitude": "-75.401197",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=512"
+    },
+    { 
+        "title": "Rich Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.537654",
+        "longitude": "-75.399865",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=514"
+    },
+    { 
+        "title": "Holmesville Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "New Berlin",
+        "latitude": "42.516958",
+        "longitude": "-75.399199",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=516"
+    },
+    { 
+        "title": "North Norwich Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "North Norwich",
+        "latitude": "42.619322",
+        "longitude": "-75.519194",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=517"
+    },
+    { 
+        "title": "King Settlement Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "North Norwich",
+        "latitude": "42.594725",
+        "longitude": "-75.46357",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=518"
+    },
+    { 
+        "title": "Buell Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "North Norwich",
+        "latitude": "42.601237",
+        "longitude": "-75.458283",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=519"
+    },
+    { 
+        "title": "Plasterville Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "North Norwich",
+        "latitude": "42.585918",
+        "longitude": "-75.522291",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=520"
+    },
+    { 
+        "title": "Aldrich Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.551704",
+        "longitude": "-75.544808",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=521"
+    },
+    { 
+        "title": "St Paul Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.554915",
+        "longitude": "-75.528087",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=523"
+    },
+    { 
+        "title": "Woods Corner Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.556649",
+        "longitude": "-75.519135",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=524"
+    },
+    { 
+        "title": "Burlingame Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.519247",
+        "longitude": "-75.510444",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=530"
+    },
+    { 
+        "title": "Hoag Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.482175",
+        "longitude": "-75.450603",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=531"
+    },
+    { 
+        "title": "White Store Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Norwich",
+        "latitude": "42.483653",
+        "longitude": "-75.406052",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=532"
+    },
+    { 
+        "title": "Maple Grove Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Otselic",
+        "latitude": "42.710813",
+        "longitude": "-75.730647",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=533"
+    },
+    { 
+        "title": "7th Day Hollow Baptist Cemeter",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Otselic",
+        "latitude": "42.684667",
+        "longitude": "-75.761458",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=534"
+    },
+    { 
+        "title": "Tallett Hill Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Otselic",
+        "latitude": "42.66563767",
+        "longitude": "-75.72515918",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=536"
+    },
+    { 
+        "title": "Cole Hill Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Otselic",
+        "latitude": "42.650199",
+        "longitude": "-75.686803",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=537"
+    },
+    { 
+        "title": "Riverview Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.442729",
+        "longitude": "-75.585412",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=541"
+    },
+    { 
+        "title": "Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.459216",
+        "longitude": "-75.580447",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=542"
+    },
+    { 
+        "title": "Van Wagener Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.446507",
+        "longitude": "-75.579138",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=545"
+    },
+    { 
+        "title": "Millbrook Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.42918",
+        "longitude": "-75.623142",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=547"
+    },
+    { 
+        "title": "Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.407973",
+        "longitude": "-75.535645",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=548"
+    },
+    { 
+        "title": "Little Falls Burying Ground",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.39419",
+        "longitude": "-75.60401",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=549"
+    },
+    { 
+        "title": "Tenbroeck Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.376169",
+        "longitude": "-75.655008",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=551"
+    },
+    { 
+        "title": "Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.375258",
+        "longitude": "-75.522222",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=552"
+    },
+    { 
+        "title": "LeGar, Martha",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Oxford",
+        "latitude": "42.422891",
+        "longitude": "-75.643104",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=553"
+    },
+    { 
+        "title": "Northwest Corners Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.629722",
+        "longitude": "-75.772683",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=554"
+    },
+    { 
+        "title": "Center Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.599419",
+        "longitude": "-75.752648",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=555"
+    },
+    { 
+        "title": "Wayside Rest Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.578024",
+        "longitude": "-75.784737",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=556"
+    },
+    { 
+        "title": "East Pharsalia Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pharsalia",
+        "latitude": "42.556321",
+        "longitude": "-75.7177",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=557"
+    },
+    { 
+        "title": "Pink Hill Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.623524",
+        "longitude": "-75.861373",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=558"
+    },
+    { 
+        "title": "North Pitcher Episcopal Church Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.625079",
+        "longitude": "-75.818186",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=559"
+    },
+    { 
+        "title": "Ufford Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Pitcher",
+        "latitude": "42.630212",
+        "longitude": "-75.808688",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=560"
+    },
+    { 
+        "title": "Presbyterian Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Plymouth",
+        "latitude": "42.619668",
+        "longitude": "-75.606031",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=563"
+    },
+    { 
+        "title": "South Side Plymouth Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Plymouth",
+        "latitude": "42.615471",
+        "longitude": "-75.597815",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=564"
+    },
+    { 
+        "title": "Heady's Corners (Heady) Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Plymouth",
+        "latitude": "42.560058",
+        "longitude": "-75.6178",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=566"
+    },
+    { 
+        "title": "Levee Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Plymouth",
+        "latitude": "42.596888",
+        "longitude": "-75.646851",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=567"
+    },
+    { 
+        "title": "Daniels Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.550152",
+        "longitude": "-75.666529",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=568"
+    },
+    { 
+        "title": "J D Lewis Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.530715",
+        "longitude": "-75.638654",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=569"
+    },
+    { 
+        "title": "Packer Mason Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.536438",
+        "longitude": "-75.598183",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=570"
+    },
+    { 
+        "title": "Brown Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.509734",
+        "longitude": "-75.633996",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=571"
+    },
+    { 
+        "title": "Rogers Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.507535",
+        "longitude": "-75.633577",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=572"
+    },
+    { 
+        "title": "Rogers Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.494963",
+        "longitude": "-75.63336",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=573"
+    },
+    { 
+        "title": "Lewis Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.486443",
+        "longitude": "-75.565583",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=574"
+    },
+    { 
+        "title": "Whispering Pines Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.483117",
+        "longitude": "-75.564039",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=575"
+    },
+    { 
+        "title": "Mason-Packer Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.4898",
+        "longitude": "-75.590492",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=576"
+    },
+    { 
+        "title": "Turner Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Preston",
+        "latitude": "42.497246",
+        "longitude": "-75.574856",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=577"
+    },
+    { 
+        "title": "St Malachy's Church",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.688391",
+        "longitude": "-75.49295",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=578"
+    },
+    { 
+        "title": "Episcopal Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.68",
+        "longitude": "-75.495358",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=580"
+    },
+    { 
+        "title": "West Hill Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.694589",
+        "longitude": "-75.532298",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=582"
+    },
+    { 
+        "title": "Sherburne Quarter",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.693096",
+        "longitude": "-75.507088",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=583"
+    },
+    { 
+        "title": "East Hill Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.691752",
+        "longitude": "-75.453883",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=585"
+    },
+    { 
+        "title": "Harrisville Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Sherburne",
+        "latitude": "42.68028",
+        "longitude": "-75.46482",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=586"
+    },
+    { 
+        "title": "Waldon Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.441094",
+        "longitude": "-75.774545",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=588"
+    },
+    { 
+        "title": "Perkins Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.441696",
+        "longitude": "-75.759655",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=589"
+    },
+    { 
+        "title": "Clobridge Family Cemetery Corp",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.448361",
+        "longitude": "-75.707457",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=590"
+    },
+    { 
+        "title": "Wilcox Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.444027",
+        "longitude": "-75.664166",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=591"
+    },
+    { 
+        "title": "Loomis Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.435191",
+        "longitude": "-75.664202",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=592"
+    },
+    { 
+        "title": "Cowles Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.401503",
+        "longitude": "-75.729299",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=596"
+    },
+    { 
+        "title": "Knickerbocker Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.399922",
+        "longitude": "-75.758495",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=597"
+    },
+    { 
+        "title": "Knickerbocker Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.399922",
+        "longitude": "-75.758495",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=598"
+    },
+    { 
+        "title": "Miller Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.410944",
+        "longitude": "-75.706142",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=599"
+    },
+    { 
+        "title": "Maple Grove Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smithville",
+        "latitude": "42.388384",
+        "longitude": "-75.808871",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=600"
+    },
+    { 
+        "title": "West Cemetery Of Smyrna",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.686845",
+        "longitude": "-75.574989",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=601"
+    },
+    { 
+        "title": "Smyrna East Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.688056",
+        "longitude": "-75.565102",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=602"
+    },
+    { 
+        "title": "First Free Will Baptist",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.721726",
+        "longitude": "-75.670069",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=603"
+    },
+    { 
+        "title": "Wilcox Cemetery",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.721301",
+        "longitude": "-75.553405",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=604"
+    },
+    { 
+        "title": "Dehne, Perry",
+        
+        
+        
+        "subject": "cemetery",
+        "location": "Smyrna",
+        "latitude": "42.708249",
+        "longitude": "-75.593629",
+        
+        
+        
+        
+        
+        
+        
+        "reference_url": "/item.html?id=606"
+    }
+    
+] }

@@ -1,0 +1,21 @@
+{
+    "facets": [ 
+        {
+            "field": "subject",
+            "terms": { 
+                "cemetery": 491
+            }
+        },
+        {
+            "field": "creator",
+            "terms": { 
+            }
+        },
+        {
+            "field": "format",
+            "terms": { 
+            }
+        }
+        
+    ]
+}
