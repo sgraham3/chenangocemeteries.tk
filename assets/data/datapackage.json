@@ -2,7 +2,7 @@
     "profile": "data-package",
     "name": "chenango-county-cemeteries-data",
     "title": "Chenango County Cemeteries Data",
-    "description": "Metadata and data derived from Chenango County Cemeteries. Cemeteries located in Chenango County. Townships and municipalities are listed alphabetically. Cemeteries are listed under their township or municipality, so be sure to check both. .",
+    "description": "Metadata and data derived from Chenango County Cemeteries. Cemeteries located in Chenango County. Townships and municipalities are searchable. Cemeteries are listed under their township or municipality, so be sure to check both. .",
     
     "homepage": "/",
     "contributors": [
