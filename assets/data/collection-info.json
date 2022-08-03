@@ -9,7 +9,8 @@
     "date_start": "",
     "date_end": "",
     "objects": {
-        null: "0"
+        null: "0",
+        "image/jpeg": "1"
         
     },
     "data": "/assets/data/datapackage.json",

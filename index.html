@@ -179,7 +179,7 @@
 </div><script>
 (function(){
     /* add item data */
-    var carouselItems = [ ];
+    var carouselItems = [ [ "Valley View Cemetery", "/objects/396.jpg", "396" ]];
     /* shuffle items */
     carouselItems.sort(function() { return 0.5 - Math.random() });
  
@@ -189,7 +189,7 @@
     var slides = "";
     var indicators = "";
     var i;
-    for (i=0; i < 0; i++) {
+    for (i=0; i < 1; i++) {
         // calculate item image location
         itemImg = carouselItems[i][1];
         // calculate item link
@@ -249,6 +249,11 @@
     <div class="card-body">
         <h5 class="card-title">Objects</h5>
         <p class="card-text">
+            
+            1
+             
+            <a class="text-dark" href="/browse.html#image">Images <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="/assets/lib/cb-icons.svg#icon-image"/></svg></a><br>
+            
             <a class="btn btn-sm btn-outline-secondary mt-2" href="/data.html">View table</a>
         </p>
     </div>
