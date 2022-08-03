@@ -3137,8 +3137,8 @@
         
         "subject": "cemetery",
         "location": "Afton",
-        "latitude": "42.22574703",
-        "longitude": "-75.51805532",
+        "latitude": "42.2257470278128",
+        "longitude": "-75.5180553239142",
         
         
         
@@ -3353,8 +3353,8 @@
         
         "subject": "cemetery",
         "location": "Pitcher",
-        "latitude": "42.59582741",
-        "longitude": "-75.8408327",
+        "latitude": "42.5958274094688",
+        "longitude": "-75.8408327011746",
         
         
         
@@ -3371,8 +3371,8 @@
         
         "subject": "cemetery",
         "location": "Afton",
-        "latitude": "42.23014107",
-        "longitude": "-75.52507917",
+        "latitude": "42.2301410734154",
+        "longitude": "-75.5250791719264",
         
         
         
@@ -3875,8 +3875,8 @@
         
         "subject": "cemetery",
         "location": "Pitcher",
-        "latitude": "42.58765618",
-        "longitude": "-75.84887361",
+        "latitude": "42.5876561805606",
+        "longitude": "-75.8488736114669",
         
         
         
@@ -4109,8 +4109,8 @@
         
         "subject": "cemetery",
         "location": "Lincklaen",
-        "latitude": "42.66274761",
-        "longitude": "-75.86920441",
+        "latitude": "42.6627476106566",
+        "longitude": "-75.8692044052482",
         
         
         
@@ -4137,24 +4137,6 @@
         
         
         "reference_url": "/item.html?id=256"
-    },
-    { 
-        "title": "Lewis Cemetery",
-        
-        
-        
-        "subject": "cemetery",
-        "location": "McDonough",
-        "latitude": "42.49944444",
-        "longitude": "-75.78055556",
-        
-        
-        
-        
-        
-        
-        
-        "reference_url": "/item.html?id=258"
     },
     { 
         "title": "Lloyd Cemetery",
@@ -4487,8 +4469,8 @@
         
         "subject": "cemetery",
         "location": "Pharsalia",
-        "latitude": "42.5619327",
-        "longitude": "-75.75764027",
+        "latitude": "42.5619326961089",
+        "longitude": "-75.757640271315",
         
         
         
@@ -4913,24 +4895,6 @@
         "reference_url": "/item.html?id=318"
     },
     { 
-        "title": "Presbyterian (now Episcopalian) Cemetery",
-        
-        
-        
-        "subject": "cemetery",
-        "location": "McDonough",
-        "latitude": "42.49805556",
-        "longitude": "-75.78055556",
-        
-        
-        
-        
-        
-        
-        
-        "reference_url": "/item.html?id=319"
-    },
-    { 
         "title": "Prosser Cemetery",
         
         
@@ -4991,8 +4955,8 @@
         
         "subject": "cemetery",
         "location": "Smyrna",
-        "latitude": "42.66803179",
-        "longitude": "-75.56362343",
+        "latitude": "42.6680317933929",
+        "longitude": "-75.5636234332675",
         
         
         
@@ -5235,24 +5199,6 @@
         
         
         "reference_url": "/item.html?id=339"
-    },
-    { 
-        "title": "Saint Malachy's Cemetery",
-        
-        
-        
-        "subject": "cemetery",
-        "location": "Sherburne",
-        "latitude": "42.69027778",
-        "longitude": "-75.47972222",
-        
-        
-        
-        
-        
-        
-        
-        "reference_url": "/item.html?id=340"
     },
     { 
         "title": "Saint Paul's Cemetery",
@@ -5675,8 +5621,8 @@
         
         "subject": "cemetery",
         "location": "Smyrna",
-        "latitude": "42.65580108",
-        "longitude": "-75.56958346",
+        "latitude": "42.655801075319",
+        "longitude": "-75.5695834555513",
         
         
         
@@ -5721,24 +5667,6 @@
         
         
         "reference_url": "/item.html?id=368"
-    },
-    { 
-        "title": "Ten Broeck Cemetery",
-        
-        
-        
-        "subject": "cemetery",
-        "location": "Oxford",
-        "latitude": "42.37611111",
-        "longitude": "-75.65555556",
-        
-        
-        
-        
-        
-        
-        
-        "reference_url": "/item.html?id=370"
     },
     { 
         "title": "Terwilliger Cemetery",
@@ -6443,24 +6371,6 @@
         "reference_url": "/item.html?id=415"
     },
     { 
-        "title": "Wightman Cemetery",
-        
-        
-        
-        "subject": "cemetery",
-        "location": "New Berlin",
-        "latitude": "42.56194444",
-        "longitude": "-75.40166667",
-        
-        
-        
-        
-        
-        
-        
-        "reference_url": "/item.html?id=416"
-    },
-    { 
         "title": "Wilcox Cemetery",
         
         
@@ -6803,7 +6713,7 @@
         "reference_url": "/item.html?id=451"
     },
     { 
-        "title": "Cemetery/george Page Farm",
+        "title": "Pendleton Cemetery",
         
         
         
@@ -6819,60 +6729,6 @@
         
         
         "reference_url": "/item.html?id=452"
-    },
-    { 
-        "title": "Coventry Cemetery Assocn",
-        
-        
-        
-        "subject": "cemetery",
-        "location": "Coventry",
-        "latitude": "42.315036",
-        "longitude": "-75.633956",
-        
-        
-        
-        
-        
-        
-        
-        "reference_url": "/item.html?id=453"
-    },
-    { 
-        "title": "Coventry Union Cemetery Assoc",
-        
-        
-        
-        "subject": "cemetery",
-        "location": "Coventry",
-        "latitude": "42.314626",
-        "longitude": "-75.63357",
-        
-        
-        
-        
-        
-        
-        
-        "reference_url": "/item.html?id=454"
-    },
-    { 
-        "title": "Coventryville Cemetery Assoc",
-        
-        
-        
-        "subject": "cemetery",
-        "location": "Coventry",
-        "latitude": "42.312925",
-        "longitude": "-75.598147",
-        
-        
-        
-        
-        
-        
-        
-        "reference_url": "/item.html?id=455"
     },
     { 
         "title": "Wylie Cemetery",
@@ -6909,24 +6765,6 @@
         
         
         "reference_url": "/item.html?id=457"
-    },
-    { 
-        "title": "Zemanick, John B",
-        
-        
-        
-        "subject": "cemetery",
-        "location": "German",
-        "latitude": "42.466823",
-        "longitude": "-75.792786",
-        
-        
-        
-        
-        
-        
-        
-        "reference_url": "/item.html?id=458"
     },
     { 
         "title": "Barnes Cemetery",
@@ -7889,8 +7727,8 @@
         
         "subject": "cemetery",
         "location": "Otselic",
-        "latitude": "42.66563767",
-        "longitude": "-75.72515918",
+        "latitude": "42.6656376660705",
+        "longitude": "-75.7251591805606",
         
         
         
@@ -8477,24 +8315,6 @@
         "reference_url": "/item.html?id=578"
     },
     { 
-        "title": "Episcopal Cemetery",
-        
-        
-        
-        "subject": "cemetery",
-        "location": "Sherburne",
-        "latitude": "42.68",
-        "longitude": "-75.495358",
-        
-        
-        
-        
-        
-        
-        
-        "reference_url": "/item.html?id=580"
-    },
-    { 
         "title": "West Hill Cemetery",
         
         
@@ -8781,24 +8601,6 @@
         
         
         "reference_url": "/item.html?id=602"
-    },
-    { 
-        "title": "First Free Will Baptist",
-        
-        
-        
-        "subject": "cemetery",
-        "location": "Smyrna",
-        "latitude": "42.721726",
-        "longitude": "-75.670069",
-        
-        
-        
-        
-        
-        
-        
-        "reference_url": "/item.html?id=603"
     },
     { 
         "title": "Wilcox Cemetery",

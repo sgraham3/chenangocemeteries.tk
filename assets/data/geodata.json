@@ -1384,7 +1384,7 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-75.51805532,42.22574703]
+                "coordinates":[-75.5180553239142,42.2257470278128]
             },            
             "properties":{
                 "title": "East Side Cemetery",
@@ -1393,8 +1393,8 @@
                 
                 "subject": "cemetery",
                 "location": "Afton",
-                "latitude": "42.22574703",
-                "longitude": "-75.51805532",
+                "latitude": "42.2257470278128",
+                "longitude": "-75.5180553239142",
                 
                 
                 
@@ -1670,7 +1670,7 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-75.8408327,42.59582741]
+                "coordinates":[-75.8408327011746,42.5958274094688]
             },            
             "properties":{
                 "title": "Finch Burial Ground",
@@ -1679,8 +1679,8 @@
                 
                 "subject": "cemetery",
                 "location": "Pitcher",
-                "latitude": "42.59582741",
-                "longitude": "-75.8408327",
+                "latitude": "42.5958274094688",
+                "longitude": "-75.8408327011746",
                 
                 
                 
@@ -1696,7 +1696,7 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-75.52507917,42.23014107]
+                "coordinates":[-75.5250791719264,42.2301410734154]
             },            
             "properties":{
                 "title": "First Baptist Church Cemetery",
@@ -1705,8 +1705,8 @@
                 
                 "subject": "cemetery",
                 "location": "Afton",
-                "latitude": "42.23014107",
-                "longitude": "-75.52507917",
+                "latitude": "42.2301410734154",
+                "longitude": "-75.5250791719264",
                 
                 
                 
@@ -2320,7 +2320,7 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-75.84887361,42.58765618]
+                "coordinates":[-75.8488736114669,42.5876561805606]
             },            
             "properties":{
                 "title": "Hinman Cemetery",
@@ -2329,8 +2329,8 @@
                 
                 "subject": "cemetery",
                 "location": "Pitcher",
-                "latitude": "42.58765618",
-                "longitude": "-75.84887361",
+                "latitude": "42.5876561805606",
+                "longitude": "-75.8488736114669",
                 
                 
                 
@@ -2658,7 +2658,7 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-75.86920441,42.66274761]
+                "coordinates":[-75.8692044052482,42.6627476106566]
             },            
             "properties":{
                 "title": "Lane Cemetery",
@@ -2667,8 +2667,8 @@
                 
                 "subject": "cemetery",
                 "location": "Lincklaen",
-                "latitude": "42.66274761",
-                "longitude": "-75.86920441",
+                "latitude": "42.6627476106566",
+                "longitude": "-75.8692044052482",
                 
                 
                 
@@ -2678,32 +2678,6 @@
                 
                 
                 "reference_url": "/item.html?id=255"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
-                "coordinates":[-75.78055556,42.49944444]
-            },            
-            "properties":{
-                "title": "Lewis Cemetery",
-                
-                
-                
-                "subject": "cemetery",
-                "location": "McDonough",
-                "latitude": "42.49944444",
-                "longitude": "-75.78055556",
-                
-                
-                
-                
-                
-                
-                
-                
-                "reference_url": "/item.html?id=258"
             }
         }, 
         {
@@ -3178,7 +3152,7 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-75.75764027,42.5619327]
+                "coordinates":[-75.757640271315,42.5619326961089]
             },            
             "properties":{
                 "title": "Neff Cemetery",
@@ -3187,8 +3161,8 @@
                 
                 "subject": "cemetery",
                 "location": "Pharsalia",
-                "latitude": "42.5619327",
-                "longitude": "-75.75764027",
+                "latitude": "42.5619326961089",
+                "longitude": "-75.757640271315",
                 
                 
                 
@@ -3776,32 +3750,6 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-75.78055556,42.49805556]
-            },            
-            "properties":{
-                "title": "Presbyterian (now Episcopalian) Cemetery",
-                
-                
-                
-                "subject": "cemetery",
-                "location": "McDonough",
-                "latitude": "42.49805556",
-                "longitude": "-75.78055556",
-                
-                
-                
-                
-                
-                
-                
-                
-                "reference_url": "/item.html?id=319"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
                 "coordinates":[-75.57444444,42.67805556]
             },            
             "properties":{
@@ -3854,7 +3802,7 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-75.56362343,42.66803179]
+                "coordinates":[-75.5636234332675,42.6680317933929]
             },            
             "properties":{
                 "title": "Reynolds Cemetery",
@@ -3863,8 +3811,8 @@
                 
                 "subject": "cemetery",
                 "location": "Smyrna",
-                "latitude": "42.66803179",
-                "longitude": "-75.56362343",
+                "latitude": "42.6680317933929",
+                "longitude": "-75.5636234332675",
                 
                 
                 
@@ -4212,32 +4160,6 @@
                 
                 
                 "reference_url": "/item.html?id=339"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
-                "coordinates":[-75.47972222,42.69027778]
-            },            
-            "properties":{
-                "title": "Saint Malachy's Cemetery",
-                
-                
-                
-                "subject": "cemetery",
-                "location": "Sherburne",
-                "latitude": "42.69027778",
-                "longitude": "-75.47972222",
-                
-                
-                
-                
-                
-                
-                
-                
-                "reference_url": "/item.html?id=340"
             }
         }, 
         {
@@ -4738,7 +4660,7 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-75.56958346,42.65580108]
+                "coordinates":[-75.5695834555513,42.655801075319]
             },            
             "properties":{
                 "title": "Stover Cemetery",
@@ -4747,8 +4669,8 @@
                 
                 "subject": "cemetery",
                 "location": "Smyrna",
-                "latitude": "42.65580108",
-                "longitude": "-75.56958346",
+                "latitude": "42.655801075319",
+                "longitude": "-75.5695834555513",
                 
                 
                 
@@ -4810,32 +4732,6 @@
                 
                 
                 "reference_url": "/item.html?id=368"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
-                "coordinates":[-75.65555556,42.37611111]
-            },            
-            "properties":{
-                "title": "Ten Broeck Cemetery",
-                
-                
-                
-                "subject": "cemetery",
-                "location": "Oxford",
-                "latitude": "42.37611111",
-                "longitude": "-75.65555556",
-                
-                
-                
-                
-                
-                
-                
-                
-                "reference_url": "/item.html?id=370"
             }
         }, 
         {
@@ -5648,32 +5544,6 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-75.40166667,42.56194444]
-            },            
-            "properties":{
-                "title": "Wightman Cemetery",
-                
-                
-                
-                "subject": "cemetery",
-                "location": "New Berlin",
-                "latitude": "42.56194444",
-                "longitude": "-75.40166667",
-                
-                
-                
-                
-                
-                
-                
-                
-                "reference_url": "/item.html?id=416"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
                 "coordinates":[-75.64083333,42.42638889]
             },            
             "properties":{
@@ -6171,7 +6041,7 @@
                 "coordinates":[-75.367016,42.64497]
             },            
             "properties":{
-                "title": "Cemetery/george Page Farm",
+                "title": "Pendleton Cemetery",
                 
                 
                 
@@ -6188,84 +6058,6 @@
                 
                 
                 "reference_url": "/item.html?id=452"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
-                "coordinates":[-75.633956,42.315036]
-            },            
-            "properties":{
-                "title": "Coventry Cemetery Assocn",
-                
-                
-                
-                "subject": "cemetery",
-                "location": "Coventry",
-                "latitude": "42.315036",
-                "longitude": "-75.633956",
-                
-                
-                
-                
-                
-                
-                
-                
-                "reference_url": "/item.html?id=453"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
-                "coordinates":[-75.63357,42.314626]
-            },            
-            "properties":{
-                "title": "Coventry Union Cemetery Assoc",
-                
-                
-                
-                "subject": "cemetery",
-                "location": "Coventry",
-                "latitude": "42.314626",
-                "longitude": "-75.63357",
-                
-                
-                
-                
-                
-                
-                
-                
-                "reference_url": "/item.html?id=454"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
-                "coordinates":[-75.598147,42.312925]
-            },            
-            "properties":{
-                "title": "Coventryville Cemetery Assoc",
-                
-                
-                
-                "subject": "cemetery",
-                "location": "Coventry",
-                "latitude": "42.312925",
-                "longitude": "-75.598147",
-                
-                
-                
-                
-                
-                
-                
-                
-                "reference_url": "/item.html?id=455"
             }
         }, 
         {
@@ -6318,32 +6110,6 @@
                 
                 
                 "reference_url": "/item.html?id=457"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
-                "coordinates":[-75.792786,42.466823]
-            },            
-            "properties":{
-                "title": "Zemanick, John B",
-                
-                
-                
-                "subject": "cemetery",
-                "location": "German",
-                "latitude": "42.466823",
-                "longitude": "-75.792786",
-                
-                
-                
-                
-                
-                
-                
-                
-                "reference_url": "/item.html?id=458"
             }
         }, 
         {
@@ -7728,7 +7494,7 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-75.72515918,42.66563767]
+                "coordinates":[-75.7251591805606,42.6656376660705]
             },            
             "properties":{
                 "title": "Tallett Hill Cemetery",
@@ -7737,8 +7503,8 @@
                 
                 "subject": "cemetery",
                 "location": "Otselic",
-                "latitude": "42.66563767",
-                "longitude": "-75.72515918",
+                "latitude": "42.6656376660705",
+                "longitude": "-75.7251591805606",
                 
                 
                 
@@ -8586,32 +8352,6 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[-75.495358,42.68]
-            },            
-            "properties":{
-                "title": "Episcopal Cemetery",
-                
-                
-                
-                "subject": "cemetery",
-                "location": "Sherburne",
-                "latitude": "42.68",
-                "longitude": "-75.495358",
-                
-                
-                
-                
-                
-                
-                
-                
-                "reference_url": "/item.html?id=580"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
                 "coordinates":[-75.532298,42.694589]
             },            
             "properties":{
@@ -9022,32 +8762,6 @@
                 
                 
                 "reference_url": "/item.html?id=602"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
-                "coordinates":[-75.670069,42.721726]
-            },            
-            "properties":{
-                "title": "First Free Will Baptist",
-                
-                
-                
-                "subject": "cemetery",
-                "location": "Smyrna",
-                "latitude": "42.721726",
-                "longitude": "-75.670069",
-                
-                
-                
-                
-                
-                
-                
-                
-                "reference_url": "/item.html?id=603"
             }
         }, 
         {
