@@ -1,481 +1,481 @@
-objectid,parentid,title,creator,date,description,subject,location,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,longitude,latitude
-"1",,White Farm Plot,,,See Albee Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,
-"2",,Kit Frink Cemetery,,,See Aldrich Cemetery,cemetery,Norwich,,,,,,,,record,,,,,
-"3",,Niesh Cemetery,,,See Aldrich Cemetery,cemetery,Norwich,,,,,,,,record,,,,,
-"4",,David Jackson Cemetery,,,See Barnes Cemetery,cemetery,Greene,,,,,,,,record,,,,,
-"5",,McDonough Town Road Cemetery,,,See Beardsley Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"6",,Babcock Plot,,,See Beckwith Cemetery,cemetery,Pharsalia,,,,,,,,record,,,,,
-"7",,Sipple Farm Cemetery,,,See Bixby Cemetery,cemetery,Bainbridge,,,,,,,,record,,,,,
-"8",,Nevins Farm Plot,,,See Blackman Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"9",,East Afton Cemetery,,,See Broad Cemetery,cemetery,Afton,,,,,,,,record,,,,,
-"10",,Brooks Cemetery,,,See Brooksbank Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"11",,East Cemetery,,,See Brown Cemetery,cemetery,Plymouth,,,,,,,,record,,,,,
-"12",,Clark Cemetery,,,See Campbell Cemetery,cemetery,Columbus,,,,,,,,record,,,,,
-"13",,Gross Farm Plot,,,See Chapel Cemetery,cemetery,Greene,,,,,,,,record,,,,,
-"14",,Lambs Cemetery,,,See Columbus Corners Cemetery,cemetery,Columbus,,,,,,,,record,,,,,
-"15",,Shumway Hill Cemetery,,,See Cornell Cemetery,cemetery,Guilford,,,,,,,,record,,,,,
-"16",,Union Cemetery,,,See Coventry Cemetery,cemetery,Coventry,,,,,,,,record,,,,,
-"17",,Dingman Farm Plot,,,See Davis Cemetery,cemetery,Smithville,,,,,,,,record,,,,,
-"18",,Slater Cemetery,,,See Donnelly Cemetery,cemetery,Plymouth,,,,,,,,record,,,,,
-"19",,Baptist Church Cemetery,,,See East End Cemetery,cemetery,Smyrna,,,,,,,,record,,,,,
-"20",,Downey Farm Plot,,,See Eccleston Cemetery,cemetery,Preston,,,,,,,,record,,,,,
-"21",,Fanning Cemetery,,,See Eccleston Cemetery,cemetery,Preston,,,,,,,,record,,,,,
-"22",,Brooks Cemetery,,,See Edmonds Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,
-"23",,Lewis Cemetery,,,See Edmonds Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,
-"24",,Bolster-Edwards Cemetery,,,See Edwards Cemetery,cemetery,Pitcher,,,,,,,,record,,,,,
-"25",,Lower Page Brook Cemetery,,,See Elliott Cemetery,cemetery,Greene,,,,,,,,record,,,,,
-"26",,White Store Cemetery,,,See Evergreen Cemetery,cemetery,Norwich,,,,,,,,record,,,,,
-"27",,Sawmill Road Burial Ground,,,See Finch Burial Ground,cemetery,Pitcher,,,,,,,,record,,,,,
-"28",,Trestle Cemetery,,,See Foote Cemetery,cemetery,Guilford,,,,,,,,record,,,,,
-"29",,Harris Cemetery,,,See Foster Cemetery,cemetery,Norwich,,,,,,,,record,,,,,
-"30",,Barber Farm Cemetery,,,See Giles Cemetery,cemetery,Norwich,,,,,,,,record,,,,,
-"31",,Village Cemetery,,,See Greenwood Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,
-"32",,Barnes Farm Plot,,,See Gregory Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"33",,Nineveh Cemetery,,,See Guy/Reed Cemetery,cemetery,Afton,,,,,,,,record,,,,,
-"34",,South Oxford Cemetery,,,See Hackett Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"35",,Wilcox Farm Plot,,,See Hackett Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"36",,Knapp Cemetery,,,See Harris Cemetery,cemetery,Guilford,,,,,,,,record,,,,,
-"37",,Blackmans Cemetery,,,See Headys Corners Cemetery,cemetery,Plymouth,,,,,,,,record,,,,,
-"38",,Ives Farm Plot,,,See Hendrick Cemetery,cemetery,Guilford,,,,,,,,record,,,,,
-"39",,Chandlers Corners Cemetery,,,See Hinman Cemetery,cemetery,Pitcher,,,,,,,,record,,,,,
-"40",,Elliott Farm Plot,,,See Houghton Cemetery,cemetery,Greene,,,,,,,,record,,,,,
-"41",,Crary Cemetery,,,See Huntley Cemetery,cemetery,Columbus,,,,,,,,record,,,,,
-"42",,Neidlinger Farm Plot,,,See Jaquin Cemetery,cemetery,Guilford,,,,,,,,record,,,,,
-"43",,Stockwell Cemetery,,,See Jaquin Cemetery,cemetery,Guilford,,,,,,,,record,,,,,
-"44",,Fosgate Farm Plot,,,See Kenyon Cemetery,cemetery,Pitcher,,,,,,,,record,,,,,
-"45",,Buell Cemetery,,,See King Settlement Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,
-"46",,Follett Cemetery,,,See King Settlement Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,
-"47",,Gorham Cemetery,,,See King Settlement Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,
-"48",,Gregory Cemetery,,,See King Settlement Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,
-"49",,King I Cemetery,,,See King Settlement Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,
-"50",,King II Cemetery,,,See King Settlement Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,
-"51",,Railroad Cemetery,,,See Kirby Cemetery,cemetery,Bainbridge,,,,,,,,record,,,,,
-"52",,Gregory Farm Plot,,,See Lamphere Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"53",,Lane Hill Cemetery,,,See Lane Cemetery,cemetery,Lincklaen,,,,,,,,record,,,,,
-"54",,Welch Farm Cemetery,,,See Lloyd Cemetery,cemetery,Columbus,,,,,,,,record,,,,,
-"55",,Maple Grove Cemetery,,,See Lower Smithville Flats Cemetery,cemetery,Smithville,,,,,,,,record,,,,,
-"56",,Mount Upton Cemetery,,,See Maplewood Cemetery,cemetery,Guilford,,,,,,,,record,,,,,
-"57",,Petley Cemetery,,,See Maplewood Cemetery,cemetery,Guilford,,,,,,,,record,,,,,
-"58",,Randall-Miles Farm Plot,,,See McNitt Cemetery,cemetery,Norwich,,,,,,,,record,,,,,
-"59",,Hull Cemetery,,,See Mead Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"60",,Little Falls Cemetery,,,See Mead Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"61",,West Cemetery,,,See Medbury Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,
-"62",,Griffin Cemetery,,,See Medbury-Arnold Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,
-"63",,Wright Farm Plot,,,See Merrick Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"64",,Church Cemetery,,,See Millbrook Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"65",,Robinson Farm Plot,,,See Moore Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"66",,Petley Farm Plot,,,See Morgan Cemetery,cemetery,Guilford,,,,,,,,record,,,,,
-"67",,Rockdale Cemetery,,,See Morgan Cemetery,cemetery,Guilford,,,,,,,,record,,,,,
-"68",,Perkins Farm Cemetery,,,See Nichols Cemetery,cemetery,Smithville,,,,,,,,record,,,,,
-"69",,Old Greene Burial Ground,,,See North Canal Street Cemetery,cemetery,Greene,,,,,,,,record,,,,,
-"70",,Barnes Cemetery,,,See North Pharsalia Cemetery,cemetery,Pharsalia,,,,,,,,record,,,,,
-"71",,Kirk Cemetery,,,See North Pharsalia Cemetery,cemetery,Pharsalia,,,,,,,,record,,,,,
-"72",,Chapel Cemetery,,,See Old Chapel Cemetery,cemetery,Coventry,,,,,,,,record,,,,,
-"73",,Shapley Farm Plot,,,See Padget Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"74",,Palmer's Corners Cemetery,,,See Palmer Cemetery,cemetery,Sherburne,,,,,,,,record,,,,,
-"75",,Prince Farm Cemetery,,,See Parks Cemetery,cemetery,Bainbridge,,,,,,,,record,,,,,
-"76",,Burr-Hoag Cemetery,,,See Phetterplace Cemetery,cemetery,Norwich,,,,,,,,record,,,,,
-"77",,Hoag Cemetery,,,See Phetterplace Cemetery,cemetery,Norwich,,,,,,,,record,,,,,
-"78",,Beatty Farm Plot,,,See Phillips Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,
-"79",,Kales Hill Cemetery,,,See Pike-Hawkins Cemetery,cemetery,Coventry,,,,,,,,record,,,,,
-"80",,Close Farm Cemetery,,,See Reynolds Cemetery,cemetery,Smyrna,,,,,,,,record,,,,,
-"81",,Hawley Cemetery,,,See Reynolds Cemetery,cemetery,Smyrna,,,,,,,,record,,,,,
-"82",,Hitesite Cemetery,,,See Reynolds Cemetery,cemetery,Smyrna,,,,,,,,record,,,,,
-"83",,Amblerville Farm Plot,,,See Rich-Sage Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,
-"84",,Plasterville Cemetery,,,See Riverside Rural Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,
-"85",,Pleasant View Cemetery,,,See Riverview Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"86",,Mason-Packer Cemetery,,,See Samuel E. Lewis Cemetery,cemetery,Preston,,,,,,,,record,,,,,
-"87",,German Hollow Cemetery,,,See Seymour Cemetery,cemetery,Plymouth,,,,,,,,record,,,,,
-"88",,Willoughby Farm Plot,,,See Shapley Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"89",,Gould Cemetery,,,See Smith Cemetery,cemetery,Preston,,,,,,,,record,,,,,
-"90",,South Hill Cemetery,,,See Smith Cemetery,cemetery,Guilford,,,,,,,,record,,,,,
-"91",,Wakeman Cemetery,,,See Stevens Cemetery,cemetery,Afton,,,,,,,,record,,,,,
-"92",,Adams Farm Cemetery,,,See Stewart's Corners Cemetery,cemetery,Plymouth,,,,,,,,record,,,,,
-"93",,Warn-Ten Broeck Cemetery,,,See Ten Broeck Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"94",,Cook Farm Plot,,,See Terwilliger Cemetery,cemetery,Greene,,,,,,,,record,,,,,
-"95",,Hamilton Farm Plot,,,See Tillotson Cemetery,cemetery,McDonough,,,,,,,,record,,,,,
-"96",,Fairchild Cemetery,,,See Towsley-Fairchild Cemetery,cemetery,Smithville,,,,,,,,record,,,,,
-"97",,Moore Cemetery,,,See Towsley-Moore Cemetery,cemetery,Smithville,,,,,,,,record,,,,,
-"98",,Pond Cemetery,,,See Towsley-Pond Cemetery,cemetery,Smithville,,,,,,,,record,,,,,
-"99",,Keech Cemetery,,,See Turner Cemetery,cemetery,Preston,,,,,,,,record,,,,,
-"100",,Butler Cemetery,,,See Twitchell Cemetery,cemetery,McDonough,,,,,,,,record,,,,,
-"101",,Ingersoll-Rand Cemetery,,,See Union Valley Cemetery,cemetery,Bainbridge,,,,,,,,record,,,,,
-"102",,Neidlinger Farm Burial Ground,,,See Union Valley Cemetery,cemetery,Bainbridge,,,,,,,,record,,,,,
-"103",,Smithville Flats Cemetery,,,See Upper Smithville Flats Cemetery,cemetery,Smithville,,,,,,,,record,,,,,
-"104",,State Street Cemetery,,,See Village Cemetery,cemetery,Oxford,,,,,,,,record,,,,,
-"105",,Sherburne Four Corners Cemetery,,,See Volmer's Farm Cemetery,cemetery,Sherburne,,,,,,,,record,,,,,
-"106",,Preston Corners Cemetery,,,See Wait Cemetery,cemetery,Preston,,,,,,,,record,,,,,
-"107",,Skillman Cemetery,,,See Waldron Cemetery,cemetery,Smithville,,,,,,,,record,,,,,
-"108",,Carter Farm Plot,,,See Watson Cemetery,cemetery,Greene,,,,,,,,record,,,,,
-"109",,Four Corners Cemetery,,,See Westview Cemetery,cemetery,German,,,,,,,,record,,,,,
-"110",,Ring Farm Plot,,,See Widger Cemetery,cemetery,Preston,,,,,,,,record,,,,,
-"111",,Willcox Cemetery,,,See Wilcok Cemetery,cemetery,Smyrna,,,,,,,,record,,,,,
-"112",,Upper Tyner Cemetery,,,See Willcox Cemetery,cemetery,Smithville,,,,,,,,record,,,,,
-"113",,Albee Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.33111111,42.64611111
-"114",,Aldrich Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.45055556,42.56083333
-"115",,Arnold Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.35611111,42.6125
-"116",,Ashcraft Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.81527778,42.47916667
-"117",,Aylesworth Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.44277778,42.62333333
-"118",,Baptist Church Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.47805556,42.29388889
-"120",,Beardsley Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.64222222,42.45388889
-"121",,Beardsley Family Plot,,,,cemetery,McDonough,,,,,,,,record,,,,,
-"122",,Beardsley Farm Plot,,,,cemetery,McDonough,,,,,,,,record,,,,,
-"123",,Beckwith Plot,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.70361111,42.55888889
-"124",,Bellinger Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.45777778,42.60138889
-"125",,Benedict Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,,
-"127",,Birdsall Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.80944444,42.30805556
-"128",,Bixby Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.47888889,42.28722222
-"129",,Blackman Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.58055556,42.45916667
-"130",,Bloom Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.45777778,42.60138889
-"131",,Bly Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.72833333,42.31805556
-"132",,Bonney Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.45777778,42.60138889
-"133",,Bosworth Farm Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.72055556,42.57833333
-"134",,Brackel (Church) Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.83777778,42.55361111
-"135",,Brisben Baptist Church Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.67972222,42.36694444
-"136",,Broad Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.42777778,42.21611111
-"137",,Brooksbank Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.56444444,42.39055556
-"138",,Brown Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.75027778,42.56305556
-"139",,Brown Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.59777778,42.63
-"140",,Brown Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63416667,42.51083333
-"141",,Burdick Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.78722222,42.58194444
-"143",,Button Burial Plot,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.70361111,42.54888889
-"144",,Campbell Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.40222222,42.70055556
-"145",,Carter School House Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.36111111,42.71388889
-"147",,Champlin Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.68888889,42.54888889
-"149",,Chapin Hill Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,,
-"150",,Chase Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,,
-"151",,Christ Church Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.49472222,42.68
-"153",,Clark Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,,
-"154",,"Cline, F. Cemetery",,,,cemetery,Smithville,,,,,,,,record,,,,-75.70416667,42.42861111
-"155",,"Cline, P. Cemetery",,,,cemetery,Smithville,,,,,,,,record,,,,-75.85277778,42.43611111
-"156",,Cole Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.38833333,42.52277778
-"158",,Collins Farm Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,,
-"160",,Columbus Corners Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.32861111,42.68277778
-"161",,Colwell Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.565,42.56972222
-"162",,Congregational Church Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.47805556,42.29138889
-"163",,Coon Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.43916667,42.61277778
-"164",,Cooper Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.50027778,42.36138889
-"166",,Cornell Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.43694444,42.4525
-"167",,Corning Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.82972222,42.56027778
-"168",,Coventry Cemetery,,,,cemetery,Coventry,,,,,,,,record,,,,-75.63444444,42.315
-"169",,Coventryville Cemetery,,,,cemetery,Coventry,,,,,,,,record,,,,-75.59777778,42.31194444
-"171",,Cox Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.60583333,42.63361111
-"172",,Crane Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.77666667,42.58416667
-"173",,Cummings Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,,
-"174",,Curtis Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.58055556,42.44611111
-"175",,Curtiss Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63388889,42.49472222
-"176",,Daniel Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.66388889,42.54972222
-"177",,Davis Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.51888889,42.30638889
-"178",,Davis Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.53083333,42.48083333
-"179",,Davis Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.85277778,42.43611111
-"180",,Deshom Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,,
-"181",,Donnelly Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.58777778,42.55611111
-"182",,Dorman Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.50555556,42.41472222
-"183",,Dunkin Plot,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.48944444,42.63861111
-"184",,Dutch Hill Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.77805556,42.475
-"190",,East Side Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.5180553239142,42.2257470278128
-"191",,Eccleston Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,,
-"192",,Eddy Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.75666667,42.45388889
-"193",,Edmonds Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.40083333,42.57222222
-"194",,Edwards Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.8775,42.54111111
-"196",,English Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.81777778,42.26527778
-"197",,Enos Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.58166667,42.445
-"198",,Evergreen Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.40722222,42.48333333
-"199",,Fairview Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.395,42.62833333
-"200",,Fenner Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.395,42.59861111
-"201",,Ferris #1 Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.63611111,42.68638889
-"202",,Ferris #2 Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.64277778,42.66444444
-"203",,Finch Burial Ground,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.8408327011746,42.5958274094688
-"204",,First Baptist Church Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.5250791719264,42.2301410734154
-"205",,First Settler's Burial Ground,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.57277778,42.68277778
-"206",,Flint Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.80388889,42.53111111
-"207",,Fly Meadow Creek Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.61555556,42.52111111
-"208",,Foote Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.43944444,42.37722222
-"209",,Ford Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.83916667,42.45861111
-"210",,Foster Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.55472222,42.52305556
-"211",,Franklin #1 Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.6625,42.54527778
-"212",,Franklin #2 Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.65,42.54083333
-"214",,Frink Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.69027778,42.61472222
-"215",,Gale Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.69611111,42.51944444
-"216",,Gale Farm Plot,,,,cemetery,McDonough,,,,,,,,record,,,,,
-"217",,Gates Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.54638889,42.48222222
-"219",,Giles Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.54361111,42.47277778
-"221",,Godfrey Corners Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.44083333,42.42333333
-"223",,Green Lawn Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.485,42.29861111
-"224",,Greenwood Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.33083333,42.62972222
-"225",,Gregory Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.54638889,42.4575
-"226",,Griswold Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.83694444,42.48
-"227",,Grove Park Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.53,42.56111111
-"228",,Guilford Center Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.46527778,42.40833333
-"229",,Guy/Reed Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.57333333,42.21305556
-"230",,Hackett Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.62777778,42.41527778
-"231",,Hall Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.60166667,42.5125
-"232",,Hamilton Farm Plot,,,,cemetery,Guilford,,,,,,,,record,,,,,
-"233",,Harris Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,,
-"235",,Harvey Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.82333333,42.54638889
-"237",,Hendrick Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,,
-"238",,Hinman Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.8488736114669,42.5876561805606
-"240",,Horton Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.8025,42.37138889
-"241",,Houghton Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.78694444,42.29527778
-"242",,Howard Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.42944444,42.72722222
-"243",,Huntley Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.37472222,42.73388889
-"244",,Indian Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.84416667,42.49361111
-"246",,Jaquin Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.4725,42.33388889
-"247",,John D. Lewis Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63888889,42.53027778
-"248",,Jennison Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.48666667,42.48722222
-"249",,Kendricks Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.44305556,42.66666667
-"250",,Kenyon Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.82555556,42.56083333
-"252",,Kirby Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.48611111,42.26111111
-"254",,Lamphere Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.54138889,42.41861111
-"255",,Lane Cemetery,,,,cemetery,Lincklaen,,,,,,,,record,,,,-75.8692044052482,42.6627476106566
-"256",,Latham Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,,
-"260",,Lloyd Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.31722222,42.70861111
-"262",,Lord Burial Ground,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.8125,42.56805556
-"263",,Lord Burial Plot,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.79055556,42.57555556
-"265",,Lower Phelps Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.37361111,42.54027778
-"266",,Lower Smithville Flats Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.80777778,42.38888889
-"268",,Maplewood Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.38083333,42.41472222
-"269",,McNitt Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.51416667,42.49777778
-"270",,Mead Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.60416667,42.39416667
-"271",,Medbury Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.40277778,42.60861111
-"272",,Medbury-Arnold Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.63222222,42.62777778
-"274",,Merrick Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.56388889,42.37361111
-"276",,Miller Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.6225,42.39083333
-"278",,Mollie Burial Plot,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.75194444,42.56
-"279",,Monroe Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.68305556,42.56722222
-"281",,Moore Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.57361111,42.40861111
-"282",,Morgan Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.405,42.39055556
-"284",,Mount Hope Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.52527778,42.51777778
-"285",,Nash Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.80444444,42.49472222
-"286",,Neff Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.757640271315,42.5619326961089
-"287",,Newton Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.73111111,42.61555556
-"288",,Nichols Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.69194444,42.43666667
-"289",,North Afton Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.54166667,42.27361111
-"290",,North Canal Street Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.76888889,42.33277778
-"291",,North Guilford Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.47472222,42.4525
-"294",,North Pharsalia Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.70027778,42.60944444
-"295",,North Side Burying Ground,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.61555556,42.62944444
-"297",,Norwich Quarter Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.46694444,42.555
-"299",,Old Burlingame Burial Ground,,,,cemetery,Norwich,,,,,,,,record,,,,-75.515,42.52055556
-"302",,Padget Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.5575,42.39916667
-"303",,Palmer Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.44,42.74027778
-"304",,Parks Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.45361111,42.30166667
-"305",,Pearsall Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.45027778,42.30916667
-"306",,Pendleton Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.40222222,42.70055556
-"307",,Pendleton Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.52444444,42.48972222
-"309",,Perkins Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,,
-"311",,Perry Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.67277778,42.59361111
-"312",,Phetteplace Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.72722222,42.53222222
-"313",,Phetterplace Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.45805556,42.48222222
-"314",,Phillips Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.39722222,42.54027778
-"315",,Phillips #2 Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.55833333,42.63888889
-"316",,Pike-Hawkins Cemetery,,,,cemetery,Coventry,,,,,,,,record,,,,-75.63444444,42.315
-"318",,Pitcher Congregational Church Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.85972222,42.58111111
-"320",,Prosser Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,,
-"321",,Quaker Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.57444444,42.67805556
-"323",,Ramsdale Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.44388889,42.73888889
-"325",,Reynolds Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.5636234332675,42.6680317933929
-"326",,Rhode Island Cemetery,,,,cemetery,Lincklaen,,,,,,,,record,,,,-75.80138889,42.67305556
-"327",,Rich-Sage Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.535,42.5375
-"328",,Riverside #1 Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.38833333,42.52361111
-"329",,Riverside #2 Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.38944444,42.52444444
-"330",,Riverside Rural Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.52666667,42.58666667
-"332",,Robbins Cemetery,,,,cemetery,Otselic,,,,,,,,record,,,,-75.69166667,42.68972222
-"333",,Robbins Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.42694444,42.65055556
-"334",,Robinson Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.39361111,42.58861111
-"335",,Rogers Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63444444,42.50972222
-"336",,Ross Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.59972222,42.44194444
-"337",,Rounds Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.57694444,42.38388889
-"338",,Saint Andrew's Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.33388889,42.62138889
-"339",,Saint Joseph's Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.60555556,42.44277778
-"341",,Saint Paul's Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.5275,42.55916667
-"342",,Saint Peter's Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.48111111,42.29111111
-"343",,Samuel E. Lewis Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.59111111,42.48944444
-"344",,Scribner Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.33722222,42.59388889
-"345",,Seventh Day Baptist Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63388889,42.50944444
-"347",,Seymour Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,,
-"348",,Shapley Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.55944444,42.40638889
-"349",,Sherman Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.41694444,42.58472222
-"350",,Sherwood Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.62222222,42.45111111
-"351",,Skillman Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,,
-"352",,Smith Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.45833333,42.34222222
-"353",,Smith Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,,
-"354",,Smith Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.56388889,42.48111111
-"355",,Soper Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.82111111,42.57972222
-"356",,South Plymouth Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.5525,42.57638889
-"358",,Stafford Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63027778,42.46861111
-"359",,Stanbro Cemetery,,,,cemetery,Otselic,,,,,,,,record,,,,-75.68916667,42.67694444
-"360",,Stead Farm Plot,,,,cemetery,Guilford,,,,,,,,record,,,,,
-"361",,Stebbins Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.62472222,42.66222222
-"362",,Steere Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.66694444,42.52555556
-"363",,Steere Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.33111111,42.64888889
-"364",,Stevens Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.62222222,42.20527778
-"365",,Stewart's Corners Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.58583333,42.60444444
-"366",,Stover Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.5695834555513,42.655801075319
-"367",,Sunset Hill Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.49805556,42.40638889
-"368",,Sylvan Lawn Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.76111111,42.32666667
-"371",,Terwilliger Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.82527778,42.25222222
-"372",,Tiffany Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.45777778,42.58694444
-"373",,Tillotsen Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.72944444,42.25333333
-"374",,Tillotson Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.42583333,42.72361111
-"375",,Tillotson Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,,
-"376",,Towsley-Fairchild Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.7475,42.43333333
-"377",,Towsley-Moore Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.7325,42.42777778
-"378",,Towsley-Pond Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.72861111,42.42277778
-"379",,Tremain Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.68222222,42.36138889
-"380",,Tucker Burial Plot,,,,cemetery,Pharsalia,,,,,,,,record,,,,,
-"382",,Twitchell Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.72361111,42.5125
-"384",,Union Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.77166667,42.49972222
-"385",,Union Valley Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,,
-"386",,Unknown Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,,
-"387",,Unnamed #1 Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.69388889,42.54083333
-"388",,Unnamed #1 Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,,
-"389",,Unnamed #2 Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.76666667,42.49805556
-"390",,Unnamed #2 Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,,
-"391",,Unnamed #3 Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.72694444,42.47444444
-"392",,Upper Geneganslet Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.80222222,42.34777778
-"394",,Upper Phelps Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.37222222,42.54416667
-"395",,Upper Smithville Flats Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.8075,42.39888889
-"396",,Valley View Cemetery,,,,cemetery,Otselic,,,,,,,,record,/objects/396.jpg,,,-75.78194444,42.64527778
-"397",,Van Ness Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.72777778,42.32
-"398",,Van Wagenen Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.58,42.44638889
-"399",,Village Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.60222222,42.44333333
-"400",,Volmer's Farm Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,,
-"401",,Vroman Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.70111111,42.59166667
-"402",,Wait Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.62388889,42.53222222
-"403",,Waldron Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.78527778,42.42361111
-"404",,Watson Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.7625,42.33833333
-"405",,Wayside Rest Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.78638889,42.51
-"406",,Wells Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.56805556,42.50805556
-"407",,West Bainbridge Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.53583333,42.32222222
-"410",,Westview Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.86166667,42.49166667
-"411",,Whipple Farm Plot,,,,cemetery,McDonough,,,,,,,,record,,,,,
-"413",,White Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.69611111,42.56777778
-"414",,Whitmarsh Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.80166667,42.36861111
-"415",,Widger Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.64694444,42.49083333
-"418",,Wilcox Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.64083333,42.42638889
-"420",,Willard Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.82805556,42.24972222
-"424",,WRC (New York State) Veterans Home Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.5775,42.44611111
-"425",,Wyatt Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.81555556,42.53166667
-"428",,Yale Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.76138889,42.52638889
-"429",,Yaleville Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.50027778,42.36138889
-"430",,Yeomans Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.62222222,42.51722222
-"433",,Glenwood Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.532377,42.231713
-"436",,Church Hollow Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.61821,42.216403
-"438",,Melondy Hill Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.464951,42.202893
-"441",,West Bainbridge Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.535379,42.322701
-"442",,Bush Family Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.466879,42.301053
-"444",,Bennettsville Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.450079,42.256631
-"446",,Campbell Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.402199,42.700376
-"447",,Millers Corner Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.359938,42.709668
-"448",,Perkins Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.3209,42.703438
-"449",,Columbus Quarter Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.317902,42.709497
-"450",,Columbus Center Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.364597,42.673693
-"451",,Lambs Corners Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.328071,42.682858
-"452",,Pendleton Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.367016,42.64497
-"456",,Wylie Cemetery,,,,cemetery,Coventry,,,,,,,,record,,,,-75.638471,42.28584
-"457",,Old Chapel Cemetery,,,,cemetery,Coventry,,,,,,,,record,,,,-75.658145,42.283964
-"461",,Barnes Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.844354,42.349325
-"462",,Cummings Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.771482,42.363793
-"463",,Tillotson Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.728995,42.352681
-"465",,Morse Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.80203,42.327462
-"468",,Lower Geneganslet Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.805349,42.299159
-"469",,Winston Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.737331,42.280822
-"470",,Upper Page Brook Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.712494,42.294543
-"471",,Elliott Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.763175,42.259051
-"472",,Oak Grove Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.828423,42.249515
-"473",,Shumway Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.475258,42.452608
-"474",,Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.504019,42.412498
-"477",,Town Of Guilford,,,,cemetery,Guilford,,,,,,,,record,,,,-75.381843,42.4259
-"478",,Mount Upton Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.380312,42.415103
-"479",,Gospel Hill Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.515437,42.406124
-"481",,Guilford Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.497887,42.407959
-"482",,Rockdale Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.404963,42.390102
-"483",,Ives Settlement Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.45867,42.378787
-"484",,Trestle Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.438931,42.377396
-"485",,Yale Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.512998,42.34937
-"486",,Yaleville Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.500625,42.361347
-"487",,Cooper Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.489239,42.347751
-"488",,White Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.452381,42.359015
-"489",,East Guilford Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.405863,42.340929
-"493",,Guilford Historical Society,,,,cemetery,Guilford,,,,,,,,record,,,,-75.516369,42.391553
-"494",,Red School House Cemetery,,,,cemetery,Lincklaen,,,,,,,,record,,,,-75.887274,42.719215
-"495",,Lincklaen Center Cemetery,,,,cemetery,Lincklaen,,,,,,,,record,,,,-75.84954,42.710026
-"496",,Woodlawn Cemetery,,,,cemetery,Lincklaen,,,,,,,,record,,,,-75.870564,42.672199
-"498",,Freeman Cemetery,,,,cemetery,Lincklaen,,,,,,,,record,,,,-75.85797,42.645863
-"499",,Union Cemetery,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.771623,42.501245
-"500",,Miller-Gale Cemetery,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.687478,42.511775
-"501",,Lewis Cemetery,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.768055,42.49987
-"502",,Presbyterian Cemetery,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.768118,42.499604
-"503",,Corbin Cemetary,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.684951,42.482334
-"504",,Moore Cemetery,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.686203,42.466615
-"505",,Steere Cemetery,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.669835,42.525485
-"507",,Fairview Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.335535,42.621522
-"509",,Medbury Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.382341,42.629107
-"510",,Dyer Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.415513,42.612034
-"512",,Wightman Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.401197,42.562265
-"514",,Rich Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.399865,42.537654
-"516",,Holmesville Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.399199,42.516958
-"517",,North Norwich Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.519194,42.619322
-"518",,King Settlement Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.46357,42.594725
-"519",,Buell Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.458283,42.601237
-"520",,Plasterville Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.522291,42.585918
-"521",,Aldrich Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.544808,42.551704
-"523",,St Paul Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.528087,42.554915
-"524",,Woods Corner Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.519135,42.556649
-"530",,Burlingame Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.510444,42.519247
-"531",,Hoag Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.450603,42.482175
-"532",,White Store Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.406052,42.483653
-"533",,Maple Grove Cemetery,,,,cemetery,Otselic,,,,,,,,record,,,,-75.730647,42.710813
-"534",,7th Day Hollow Baptist Cemeter,,,,cemetery,Otselic,,,,,,,,record,,,,-75.761458,42.684667
-"536",,Tallett Hill Cemetery,,,,cemetery,Otselic,,,,,,,,record,,,,-75.7251591805606,42.6656376660705
-"537",,Cole Hill Cemetery,,,,cemetery,Otselic,,,,,,,,record,,,,-75.686803,42.650199
-"541",,Riverview Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.585412,42.442729
-"542",,Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.580447,42.459216
-"545",,Van Wagener Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.579138,42.446507
-"547",,Millbrook Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.623142,42.42918
-"548",,Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.535645,42.407973
-"549",,Little Falls Burying Ground,,,,cemetery,Oxford,,,,,,,,record,,,,-75.60401,42.39419
-"551",,Tenbroeck Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.655008,42.376169
-"552",,Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.522222,42.375258
-"553",,"LeGar, Martha",,,,cemetery,Oxford,,,,,,,,record,,,,-75.643104,42.422891
-"554",,Northwest Corners Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.772683,42.629722
-"555",,Center Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.752648,42.599419
-"556",,Wayside Rest Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.784737,42.578024
-"557",,East Pharsalia Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.7177,42.556321
-"558",,Pink Hill Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.861373,42.623524
-"559",,North Pitcher Episcopal Church Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.818186,42.625079
-"560",,Ufford Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.808688,42.630212
-"563",,Presbyterian Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.606031,42.619668
-"564",,South Side Plymouth Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.597815,42.615471
-"566",,Heady's Corners (Heady) Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.6178,42.560058
-"567",,Levee Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.646851,42.596888
-"568",,Daniels Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.666529,42.550152
-"569",,J D Lewis Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.638654,42.530715
-"570",,Packer Mason Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.598183,42.536438
-"571",,Brown Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.633996,42.509734
-"572",,Rogers Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.633577,42.507535
-"573",,Rogers Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63336,42.494963
-"574",,Lewis Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.565583,42.486443
-"575",,Whispering Pines Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.564039,42.483117
-"576",,Mason-Packer Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.590492,42.4898
-"577",,Turner Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.574856,42.497246
-"578",,St Malachy's Church,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.49295,42.688391
-"582",,West Hill Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.532298,42.694589
-"583",,Sherburne Quarter,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.507088,42.693096
-"585",,East Hill Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.453883,42.691752
-"586",,Harrisville Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.46482,42.68028
-"588",,Waldon Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.774545,42.441094
-"589",,Perkins Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.759655,42.441696
-"590",,Clobridge Family Cemetery Corp,,,,cemetery,Smithville,,,,,,,,record,,,,-75.707457,42.448361
-"591",,Wilcox Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.664166,42.444027
-"592",,Loomis Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.664202,42.435191
-"596",,Cowles Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.729299,42.401503
-"597",,Knickerbocker Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.758495,42.399922
-"598",,Knickerbocker Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.758495,42.399922
-"599",,Miller Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.706142,42.410944
-"600",,Maple Grove Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.808871,42.388384
-"601",,West Cemetery Of Smyrna,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.574989,42.686845
-"602",,Smyrna East Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.565102,42.688056
-"604",,Wilcox Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.553405,42.721301
-"606",,"Dehne, Perry",,,,cemetery,Smyrna,,,,,,,,record,,,,-75.593629,42.708249
+objectid,parentid,title,creator,date,description,subject,location,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,longitude,latitude,filename
+1,,White Farm Plot,,,See Albee Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,,
+2,,Kit Frink Cemetery,,,See Aldrich Cemetery,cemetery,Norwich,,,,,,,,record,,,,,,
+3,,Niesh Cemetery,,,See Aldrich Cemetery,cemetery,Norwich,,,,,,,,record,,,,,,
+4,,David Jackson Cemetery,,,See Barnes Cemetery,cemetery,Greene,,,,,,,,record,,,,,,
+5,,McDonough Town Road Cemetery,,,See Beardsley Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+6,,Babcock Plot,,,See Beckwith Cemetery,cemetery,Pharsalia,,,,,,,,record,,,,,,
+7,,Sipple Farm Cemetery,,,See Bixby Cemetery,cemetery,Bainbridge,,,,,,,,record,,,,,,
+8,,Nevins Farm Plot,,,See Blackman Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+9,,East Afton Cemetery,,,See Broad Cemetery,cemetery,Afton,,,,,,,,record,,,,,,
+10,,Brooks Cemetery,,,See Brooksbank Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+11,,East Cemetery,,,See Brown Cemetery,cemetery,Plymouth,,,,,,,,record,,,,,,
+12,,Clark Cemetery,,,See Campbell Cemetery,cemetery,Columbus,,,,,,,,record,,,,,,
+13,,Gross Farm Plot,,,See Chapel Cemetery,cemetery,Greene,,,,,,,,record,,,,,,
+14,,Lambs Cemetery,,,See Columbus Corners Cemetery,cemetery,Columbus,,,,,,,,record,,,,,,
+15,,Shumway Hill Cemetery,,,See Cornell Cemetery,cemetery,Guilford,,,,,,,,record,,,,,,
+16,,Union Cemetery,,,See Coventry Cemetery,cemetery,Coventry,,,,,,,,record,,,,,,
+17,,Dingman Farm Plot,,,See Davis Cemetery,cemetery,Smithville,,,,,,,,record,,,,,,
+18,,Slater Cemetery,,,See Donnelly Cemetery,cemetery,Plymouth,,,,,,,,record,,,,,,
+19,,Baptist Church Cemetery,,,See East End Cemetery,cemetery,Smyrna,,,,,,,,record,,,,,,
+20,,Downey Farm Plot,,,See Eccleston Cemetery,cemetery,Preston,,,,,,,,record,,,,,,
+21,,Fanning Cemetery,,,See Eccleston Cemetery,cemetery,Preston,,,,,,,,record,,,,,,
+22,,Brooks Cemetery,,,See Edmonds Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,,
+23,,Lewis Cemetery,,,See Edmonds Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,,
+24,,Bolster-Edwards Cemetery,,,See Edwards Cemetery,cemetery,Pitcher,,,,,,,,record,,,,,,
+25,,Lower Page Brook Cemetery,,,See Elliott Cemetery,cemetery,Greene,,,,,,,,record,,,,,,
+26,,White Store Cemetery,,,See Evergreen Cemetery,cemetery,Norwich,,,,,,,,record,,,,,,
+27,,Sawmill Road Burial Ground,,,See Finch Burial Ground,cemetery,Pitcher,,,,,,,,record,,,,,,
+28,,Trestle Cemetery,,,See Foote Cemetery,cemetery,Guilford,,,,,,,,record,,,,,,
+29,,Harris Cemetery,,,See Foster Cemetery,cemetery,Norwich,,,,,,,,record,,,,,,
+30,,Barber Farm Cemetery,,,See Giles Cemetery,cemetery,Norwich,,,,,,,,record,,,,,,
+31,,Village Cemetery,,,See Greenwood Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,,
+32,,Barnes Farm Plot,,,See Gregory Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+33,,Nineveh Cemetery,,,See Guy/Reed Cemetery,cemetery,Afton,,,,,,,,record,,,,,,
+34,,South Oxford Cemetery,,,See Hackett Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+35,,Wilcox Farm Plot,,,See Hackett Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+36,,Knapp Cemetery,,,See Harris Cemetery,cemetery,Guilford,,,,,,,,record,,,,,,
+37,,Blackmans Cemetery,,,See Headys Corners Cemetery,cemetery,Plymouth,,,,,,,,record,,,,,,
+38,,Ives Farm Plot,,,See Hendrick Cemetery,cemetery,Guilford,,,,,,,,record,,,,,,
+39,,Chandlers Corners Cemetery,,,See Hinman Cemetery,cemetery,Pitcher,,,,,,,,record,,,,,,
+40,,Elliott Farm Plot,,,See Houghton Cemetery,cemetery,Greene,,,,,,,,record,,,,,,
+41,,Crary Cemetery,,,See Huntley Cemetery,cemetery,Columbus,,,,,,,,record,,,,,,
+42,,Neidlinger Farm Plot,,,See Jaquin Cemetery,cemetery,Guilford,,,,,,,,record,,,,,,
+43,,Stockwell Cemetery,,,See Jaquin Cemetery,cemetery,Guilford,,,,,,,,record,,,,,,
+44,,Fosgate Farm Plot,,,See Kenyon Cemetery,cemetery,Pitcher,,,,,,,,record,,,,,,
+45,,Buell Cemetery,,,See King Settlement Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,,
+46,,Follett Cemetery,,,See King Settlement Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,,
+47,,Gorham Cemetery,,,See King Settlement Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,,
+48,,Gregory Cemetery,,,See King Settlement Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,,
+49,,King I Cemetery,,,See King Settlement Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,,
+50,,King II Cemetery,,,See King Settlement Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,,
+51,,Railroad Cemetery,,,See Kirby Cemetery,cemetery,Bainbridge,,,,,,,,record,,,,,,
+52,,Gregory Farm Plot,,,See Lamphere Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+53,,Lane Hill Cemetery,,,See Lane Cemetery,cemetery,Lincklaen,,,,,,,,record,,,,,,
+54,,Welch Farm Cemetery,,,See Lloyd Cemetery,cemetery,Columbus,,,,,,,,record,,,,,,
+55,,Maple Grove Cemetery,,,See Lower Smithville Flats Cemetery,cemetery,Smithville,,,,,,,,record,,,,,,
+56,,Mount Upton Cemetery,,,See Maplewood Cemetery,cemetery,Guilford,,,,,,,,record,,,,,,
+57,,Petley Cemetery,,,See Maplewood Cemetery,cemetery,Guilford,,,,,,,,record,,,,,,
+58,,Randall-Miles Farm Plot,,,See McNitt Cemetery,cemetery,Norwich,,,,,,,,record,,,,,,
+59,,Hull Cemetery,,,See Mead Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+60,,Little Falls Cemetery,,,See Mead Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+61,,West Cemetery,,,See Medbury Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,,
+62,,Griffin Cemetery,,,See Medbury-Arnold Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,,
+63,,Wright Farm Plot,,,See Merrick Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+64,,Church Cemetery,,,See Millbrook Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+65,,Robinson Farm Plot,,,See Moore Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+66,,Petley Farm Plot,,,See Morgan Cemetery,cemetery,Guilford,,,,,,,,record,,,,,,
+67,,Rockdale Cemetery,,,See Morgan Cemetery,cemetery,Guilford,,,,,,,,record,,,,,,
+68,,Perkins Farm Cemetery,,,See Nichols Cemetery,cemetery,Smithville,,,,,,,,record,,,,,,
+69,,Old Greene Burial Ground,,,See North Canal Street Cemetery,cemetery,Greene,,,,,,,,record,,,,,,
+70,,Barnes Cemetery,,,See North Pharsalia Cemetery,cemetery,Pharsalia,,,,,,,,record,,,,,,
+71,,Kirk Cemetery,,,See North Pharsalia Cemetery,cemetery,Pharsalia,,,,,,,,record,,,,,,
+72,,Chapel Cemetery,,,See Old Chapel Cemetery,cemetery,Coventry,,,,,,,,record,,,,,,
+73,,Shapley Farm Plot,,,See Padget Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+74,,Palmer's Corners Cemetery,,,See Palmer Cemetery,cemetery,Sherburne,,,,,,,,record,,,,,,
+75,,Prince Farm Cemetery,,,See Parks Cemetery,cemetery,Bainbridge,,,,,,,,record,,,,,,
+76,,Burr-Hoag Cemetery,,,See Phetterplace Cemetery,cemetery,Norwich,,,,,,,,record,,,,,,
+77,,Hoag Cemetery,,,See Phetterplace Cemetery,cemetery,Norwich,,,,,,,,record,,,,,,
+78,,Beatty Farm Plot,,,See Phillips Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,,
+79,,Kales Hill Cemetery,,,See Pike-Hawkins Cemetery,cemetery,Coventry,,,,,,,,record,,,,,,
+80,,Close Farm Cemetery,,,See Reynolds Cemetery,cemetery,Smyrna,,,,,,,,record,,,,,,
+81,,Hawley Cemetery,,,See Reynolds Cemetery,cemetery,Smyrna,,,,,,,,record,,,,,,
+82,,Hitesite Cemetery,,,See Reynolds Cemetery,cemetery,Smyrna,,,,,,,,record,,,,,,
+83,,Amblerville Farm Plot,,,See Rich-Sage Cemetery,cemetery,New Berlin,,,,,,,,record,,,,,,
+84,,Plasterville Cemetery,,,See Riverside Rural Cemetery,cemetery,North Norwich,,,,,,,,record,,,,,,
+85,,Pleasant View Cemetery,,,See Riverview Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+86,,Mason-Packer Cemetery,,,See Samuel E. Lewis Cemetery,cemetery,Preston,,,,,,,,record,,,,,,
+87,,German Hollow Cemetery,,,See Seymour Cemetery,cemetery,Plymouth,,,,,,,,record,,,,,,
+88,,Willoughby Farm Plot,,,See Shapley Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+89,,Gould Cemetery,,,See Smith Cemetery,cemetery,Preston,,,,,,,,record,,,,,,
+90,,South Hill Cemetery,,,See Smith Cemetery,cemetery,Guilford,,,,,,,,record,,,,,,
+91,,Wakeman Cemetery,,,See Stevens Cemetery,cemetery,Afton,,,,,,,,record,,,,,,
+92,,Adams Farm Cemetery,,,See Stewart's Corners Cemetery,cemetery,Plymouth,,,,,,,,record,,,,,,
+93,,Warn-Ten Broeck Cemetery,,,See Ten Broeck Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+94,,Cook Farm Plot,,,See Terwilliger Cemetery,cemetery,Greene,,,,,,,,record,,,,,,
+95,,Hamilton Farm Plot,,,See Tillotson Cemetery,cemetery,McDonough,,,,,,,,record,,,,,,
+96,,Fairchild Cemetery,,,See Towsley-Fairchild Cemetery,cemetery,Smithville,,,,,,,,record,,,,,,
+97,,Moore Cemetery,,,See Towsley-Moore Cemetery,cemetery,Smithville,,,,,,,,record,,,,,,
+98,,Pond Cemetery,,,See Towsley-Pond Cemetery,cemetery,Smithville,,,,,,,,record,,,,,,
+99,,Keech Cemetery,,,See Turner Cemetery,cemetery,Preston,,,,,,,,record,,,,,,
+100,,Butler Cemetery,,,See Twitchell Cemetery,cemetery,McDonough,,,,,,,,record,,,,,,
+101,,Ingersoll-Rand Cemetery,,,See Union Valley Cemetery,cemetery,Bainbridge,,,,,,,,record,,,,,,
+102,,Neidlinger Farm Burial Ground,,,See Union Valley Cemetery,cemetery,Bainbridge,,,,,,,,record,,,,,,
+103,,Smithville Flats Cemetery,,,See Upper Smithville Flats Cemetery,cemetery,Smithville,,,,,,,,record,,,,,,
+104,,State Street Cemetery,,,See Village Cemetery,cemetery,Oxford,,,,,,,,record,,,,,,
+105,,Sherburne Four Corners Cemetery,,,See Volmer's Farm Cemetery,cemetery,Sherburne,,,,,,,,record,,,,,,
+106,,Preston Corners Cemetery,,,See Wait Cemetery,cemetery,Preston,,,,,,,,record,,,,,,
+107,,Skillman Cemetery,,,See Waldron Cemetery,cemetery,Smithville,,,,,,,,record,,,,,,
+108,,Carter Farm Plot,,,See Watson Cemetery,cemetery,Greene,,,,,,,,record,,,,,,
+109,,Four Corners Cemetery,,,See Westview Cemetery,cemetery,German,,,,,,,,record,,,,,,
+110,,Ring Farm Plot,,,See Widger Cemetery,cemetery,Preston,,,,,,,,record,,,,,,
+111,,Willcox Cemetery,,,See Wilcok Cemetery,cemetery,Smyrna,,,,,,,,record,,,,,,
+112,,Upper Tyner Cemetery,,,See Willcox Cemetery,cemetery,Smithville,,,,,,,,record,,,,,,
+113,,Albee Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.33111111,42.64611111,
+114,,Aldrich Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.45055556,42.56083333,
+115,,Arnold Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.35611111,42.6125,
+116,,Ashcraft Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.81527778,42.47916667,
+117,,Aylesworth Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.44277778,42.62333333,
+118,,Baptist Church Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.47805556,42.29388889,
+120,,Beardsley Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.64222222,42.45388889,
+121,,Beardsley Family Plot,,,,cemetery,McDonough,,,,,,,,record,,,,,,
+122,,Beardsley Farm Plot,,,,cemetery,McDonough,,,,,,,,record,,,,,,
+123,,Beckwith Plot,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.70361111,42.55888889,
+124,,Bellinger Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.45777778,42.60138889,
+125,,Benedict Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,,,
+127,,Birdsall Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.80944444,42.30805556,
+128,,Bixby Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.47888889,42.28722222,
+129,,Blackman Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.58055556,42.45916667,
+130,,Bloom Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.45777778,42.60138889,
+131,,Bly Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.72833333,42.31805556,
+132,,Bonney Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.45777778,42.60138889,
+133,,Bosworth Farm Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.72055556,42.57833333,
+134,,Brackel (Church) Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.83777778,42.55361111,
+135,,Brisben Baptist Church Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.67972222,42.36694444,
+136,,Broad Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.42777778,42.21611111,
+137,,Brooksbank Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.56444444,42.39055556,
+138,,Brown Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.75027778,42.56305556,
+139,,Brown Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.59777778,42.63,
+140,,Brown Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63416667,42.51083333,
+141,,Burdick Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.78722222,42.58194444,
+143,,Button Burial Plot,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.70361111,42.54888889,
+144,,Campbell Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.40222222,42.70055556,
+145,,Carter School House Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.36111111,42.71388889,
+147,,Champlin Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.68888889,42.54888889,
+149,,Chapin Hill Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,,,
+150,,Chase Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,,,
+151,,Christ Church Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.49472222,42.68,
+153,,Clark Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,,,
+154,,"Cline, F. Cemetery",,,,cemetery,Smithville,,,,,,,,record,,,,-75.70416667,42.42861111,
+155,,"Cline, P. Cemetery",,,,cemetery,Smithville,,,,,,,,record,,,,-75.85277778,42.43611111,
+156,,Cole Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.38833333,42.52277778,
+158,,Collins Farm Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,,,
+160,,Columbus Corners Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.32861111,42.68277778,
+161,,Colwell Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.565,42.56972222,
+162,,Congregational Church Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.47805556,42.29138889,
+163,,Coon Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.43916667,42.61277778,
+164,,Cooper Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.50027778,42.36138889,
+166,,Cornell Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.43694444,42.4525,
+167,,Corning Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.82972222,42.56027778,
+168,,Coventry Cemetery,,,,cemetery,Coventry,,,,,,,,record,,,,-75.63444444,42.315,
+169,,Coventryville Cemetery,,,,cemetery,Coventry,,,,,,,,record,,,,-75.59777778,42.31194444,
+171,,Cox Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.60583333,42.63361111,
+172,,Crane Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.77666667,42.58416667,
+173,,Cummings Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,,,
+174,,Curtis Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.58055556,42.44611111,
+175,,Curtiss Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63388889,42.49472222,
+176,,Daniel Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.66388889,42.54972222,
+177,,Davis Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.51888889,42.30638889,
+178,,Davis Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.53083333,42.48083333,
+179,,Davis Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.85277778,42.43611111,
+180,,Deshom Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,,,
+181,,Donnelly Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.58777778,42.55611111,
+182,,Dorman Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.50555556,42.41472222,
+183,,Dunkin Plot,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.48944444,42.63861111,
+184,,Dutch Hill Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.77805556,42.475,
+190,,East Side Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.5180553239142,42.2257470278128,
+191,,Eccleston Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,,,
+192,,Eddy Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.75666667,42.45388889,
+193,,Edmonds Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.40083333,42.57222222,
+194,,Edwards Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.8775,42.54111111,
+196,,English Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.81777778,42.26527778,
+197,,Enos Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.58166667,42.445,
+198,,Evergreen Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.40722222,42.48333333,
+199,,Fairview Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.395,42.62833333,
+200,,Fenner Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.395,42.59861111,
+201,,Ferris #1 Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.63611111,42.68638889,
+202,,Ferris #2 Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.64277778,42.66444444,
+203,,Finch Burial Ground,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.8408327011746,42.5958274094688,
+204,,First Baptist Church Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.5250791719264,42.2301410734154,
+205,,First Settler's Burial Ground,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.57277778,42.68277778,
+206,,Flint Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.80388889,42.53111111,
+207,,Fly Meadow Creek Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.61555556,42.52111111,
+208,,Foote Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.43944444,42.37722222,
+209,,Ford Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.83916667,42.45861111,
+210,,Foster Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.55472222,42.52305556,
+211,,Franklin #1 Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.6625,42.54527778,
+212,,Franklin #2 Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.65,42.54083333,
+214,,Frink Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.69027778,42.61472222,
+215,,Gale Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.69611111,42.51944444,
+216,,Gale Farm Plot,,,,cemetery,McDonough,,,,,,,,record,,,,,,
+217,,Gates Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.54638889,42.48222222,
+219,,Giles Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.54361111,42.47277778,
+221,,Godfrey Corners Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.44083333,42.42333333,
+223,,Green Lawn Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.485,42.29861111,
+224,,Greenwood Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.33083333,42.62972222,
+225,,Gregory Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.54638889,42.4575,
+226,,Griswold Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.83694444,42.48,
+227,,Grove Park Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.53,42.56111111,
+228,,Guilford Center Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.46527778,42.40833333,
+229,,Guy/Reed Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.57333333,42.21305556,
+230,,Hackett Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.62777778,42.41527778,
+231,,Hall Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.60166667,42.5125,
+232,,Hamilton Farm Plot,,,,cemetery,Guilford,,,,,,,,record,,,,,,
+233,,Harris Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,,,
+235,,Harvey Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.82333333,42.54638889,
+237,,Hendrick Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,,,
+238,,Hinman Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.8488736114669,42.5876561805606,
+240,,Horton Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.8025,42.37138889,
+241,,Houghton Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.78694444,42.29527778,
+242,,Howard Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.42944444,42.72722222,
+243,,Huntley Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.37472222,42.73388889,
+244,,Indian Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.84416667,42.49361111,
+246,,Jaquin Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.4725,42.33388889,
+247,,John D. Lewis Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63888889,42.53027778,
+248,,Jennison Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.48666667,42.48722222,
+249,,Kendricks Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.44305556,42.66666667,
+250,,Kenyon Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.82555556,42.56083333,
+252,,Kirby Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.48611111,42.26111111,
+254,,Lamphere Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.54138889,42.41861111,
+255,,Lane Cemetery,,,,cemetery,Lincklaen,,,,,,,,record,,,,-75.8692044052482,42.6627476106566,
+256,,Latham Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,,,
+260,,Lloyd Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.31722222,42.70861111,
+262,,Lord Burial Ground,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.8125,42.56805556,
+263,,Lord Burial Plot,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.79055556,42.57555556,
+265,,Lower Phelps Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.37361111,42.54027778,
+266,,Lower Smithville Flats Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.80777778,42.38888889,
+268,,Maplewood Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.38083333,42.41472222,
+269,,McNitt Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.51416667,42.49777778,
+270,,Mead Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.60416667,42.39416667,
+271,,Medbury Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.40277778,42.60861111,
+272,,Medbury-Arnold Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.63222222,42.62777778,
+274,,Merrick Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.56388889,42.37361111,
+276,,Miller Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.6225,42.39083333,
+278,,Mollie Burial Plot,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.75194444,42.56,
+279,,Monroe Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.68305556,42.56722222,
+281,,Moore Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.57361111,42.40861111,
+282,,Morgan Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.405,42.39055556,
+284,,Mount Hope Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.52527778,42.51777778,
+285,,Nash Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.80444444,42.49472222,
+286,,Neff Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.757640271315,42.5619326961089,
+287,,Newton Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.73111111,42.61555556,
+288,,Nichols Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.69194444,42.43666667,
+289,,North Afton Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.54166667,42.27361111,
+290,,North Canal Street Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.76888889,42.33277778,
+291,,North Guilford Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.47472222,42.4525,
+294,,North Pharsalia Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.70027778,42.60944444,
+295,,North Side Burying Ground,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.61555556,42.62944444,
+297,,Norwich Quarter Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.46694444,42.555,
+299,,Old Burlingame Burial Ground,,,,cemetery,Norwich,,,,,,,,record,,,,-75.515,42.52055556,
+302,,Padget Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.5575,42.39916667,
+303,,Palmer Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.44,42.74027778,
+304,,Parks Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.45361111,42.30166667,
+305,,Pearsall Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.45027778,42.30916667,
+306,,Pendleton Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.40222222,42.70055556,
+307,,Pendleton Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.52444444,42.48972222,
+309,,Perkins Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,,,
+311,,Perry Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.67277778,42.59361111,
+312,,Phetteplace Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.72722222,42.53222222,
+313,,Phetterplace Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.45805556,42.48222222,
+314,,Phillips Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.39722222,42.54027778,
+315,,Phillips #2 Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.55833333,42.63888889,
+316,,Pike-Hawkins Cemetery,,,,cemetery,Coventry,,,,,,,,record,,,,-75.63444444,42.315,
+318,,Pitcher Congregational Church Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.85972222,42.58111111,
+320,,Prosser Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,,,
+321,,Quaker Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.57444444,42.67805556,
+323,,Ramsdale Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.44388889,42.73888889,
+325,,Reynolds Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.5636234332675,42.6680317933929,
+326,,Rhode Island Cemetery,,,,cemetery,Lincklaen,,,,,,,,record,,,,-75.80138889,42.67305556,
+327,,Rich-Sage Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.535,42.5375,
+328,,Riverside #1 Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.38833333,42.52361111,
+329,,Riverside #2 Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.38944444,42.52444444,
+330,,Riverside Rural Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.52666667,42.58666667,
+332,,Robbins Cemetery,,,,cemetery,Otselic,,,,,,,,record,,,,-75.69166667,42.68972222,
+333,,Robbins Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.42694444,42.65055556,
+334,,Robinson Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.39361111,42.58861111,
+335,,Rogers Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63444444,42.50972222,
+336,,Ross Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.59972222,42.44194444,
+337,,Rounds Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.57694444,42.38388889,
+338,,Saint Andrew's Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.33388889,42.62138889,
+339,,Saint Joseph's Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.60555556,42.44277778,
+341,,Saint Paul's Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.5275,42.55916667,
+342,,Saint Peter's Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.48111111,42.29111111,
+343,,Samuel E. Lewis Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.59111111,42.48944444,
+344,,Scribner Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.33722222,42.59388889,
+345,,Seventh Day Baptist Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63388889,42.50944444,
+347,,Seymour Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,,,
+348,,Shapley Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.55944444,42.40638889,
+349,,Sherman Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.41694444,42.58472222,
+350,,Sherwood Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.62222222,42.45111111,
+351,,Skillman Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,,,
+352,,Smith Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.45833333,42.34222222,
+353,,Smith Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,,,
+354,,Smith Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.56388889,42.48111111,
+355,,Soper Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.82111111,42.57972222,
+356,,South Plymouth Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.5525,42.57638889,
+358,,Stafford Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63027778,42.46861111,
+359,,Stanbro Cemetery,,,,cemetery,Otselic,,,,,,,,record,,,,-75.68916667,42.67694444,
+360,,Stead Farm Plot,,,,cemetery,Guilford,,,,,,,,record,,,,,,
+361,,Stebbins Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.62472222,42.66222222,
+362,,Steere Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.66694444,42.52555556,
+363,,Steere Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.33111111,42.64888889,
+364,,Stevens Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.62222222,42.20527778,
+365,,Stewart's Corners Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.58583333,42.60444444,
+366,,Stover Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.5695834555513,42.655801075319,
+367,,Sunset Hill Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.49805556,42.40638889,
+368,,Sylvan Lawn Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.76111111,42.32666667,
+371,,Terwilliger Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.82527778,42.25222222,
+372,,Tiffany Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.45777778,42.58694444,
+373,,Tillotsen Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.72944444,42.25333333,
+374,,Tillotson Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.42583333,42.72361111,
+375,,Tillotson Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,,,
+376,,Towsley-Fairchild Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.7475,42.43333333,
+377,,Towsley-Moore Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.7325,42.42777778,
+378,,Towsley-Pond Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.72861111,42.42277778,
+379,,Tremain Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.68222222,42.36138889,
+380,,Tucker Burial Plot,,,,cemetery,Pharsalia,,,,,,,,record,,,,,,
+382,,Twitchell Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.72361111,42.5125,
+384,,Union Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.77166667,42.49972222,
+385,,Union Valley Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,,,
+386,,Unknown Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,,,
+387,,Unnamed #1 Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.69388889,42.54083333,
+388,,Unnamed #1 Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,,,
+389,,Unnamed #2 Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.76666667,42.49805556,
+390,,Unnamed #2 Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,,,
+391,,Unnamed #3 Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.72694444,42.47444444,
+392,,Upper Geneganslet Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.80222222,42.34777778,
+394,,Upper Phelps Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.37222222,42.54416667,
+395,,Upper Smithville Flats Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.8075,42.39888889,
+396,,Valley View Cemetery,,,,cemetery,Otselic,,,,image/jpeg,,,,record,/objects/396.jpg,,,-75.78194444,42.64527778,396.jpg
+397,,Van Ness Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.72777778,42.32,
+398,,Van Wagenen Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.58,42.44638889,
+399,,Village Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.60222222,42.44333333,
+400,,Volmer's Farm Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,,,
+401,,Vroman Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.70111111,42.59166667,
+402,,Wait Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.62388889,42.53222222,
+403,,Waldron Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.78527778,42.42361111,
+404,,Watson Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.7625,42.33833333,
+405,,Wayside Rest Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.78638889,42.51,
+406,,Wells Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.56805556,42.50805556,
+407,,West Bainbridge Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.53583333,42.32222222,
+410,,Westview Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.86166667,42.49166667,
+411,,Whipple Farm Plot,,,,cemetery,McDonough,,,,,,,,record,,,,,,
+413,,White Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.69611111,42.56777778,
+414,,Whitmarsh Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.80166667,42.36861111,
+415,,Widger Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.64694444,42.49083333,
+418,,Wilcox Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.64083333,42.42638889,
+420,,Willard Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.82805556,42.24972222,
+424,,WRC (New York State) Veterans Home Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.5775,42.44611111,
+425,,Wyatt Cemetery,,,,cemetery,German,,,,,,,,record,,,,-75.81555556,42.53166667,
+428,,Yale Cemetery,,,,cemetery,McDonough,,,,,,,,record,,,,-75.76138889,42.52638889,
+429,,Yaleville Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.50027778,42.36138889,
+430,,Yeomans Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.62222222,42.51722222,
+433,,Glenwood Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.532377,42.231713,
+436,,Church Hollow Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.61821,42.216403,
+438,,Melondy Hill Cemetery,,,,cemetery,Afton,,,,,,,,record,,,,-75.464951,42.202893,
+441,,West Bainbridge Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.535379,42.322701,
+442,,Bush Family Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.466879,42.301053,
+444,,Bennettsville Cemetery,,,,cemetery,Bainbridge,,,,,,,,record,,,,-75.450079,42.256631,
+446,,Campbell Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.402199,42.700376,
+447,,Millers Corner Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.359938,42.709668,
+448,,Perkins Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.3209,42.703438,
+449,,Columbus Quarter Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.317902,42.709497,
+450,,Columbus Center Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.364597,42.673693,
+451,,Lambs Corners Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.328071,42.682858,
+452,,Pendleton Cemetery,,,,cemetery,Columbus,,,,,,,,record,,,,-75.367016,42.64497,
+456,,Wylie Cemetery,,,,cemetery,Coventry,,,,,,,,record,,,,-75.638471,42.28584,
+457,,Old Chapel Cemetery,,,,cemetery,Coventry,,,,,,,,record,,,,-75.658145,42.283964,
+461,,Barnes Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.844354,42.349325,
+462,,Cummings Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.771482,42.363793,
+463,,Tillotson Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.728995,42.352681,
+465,,Morse Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.80203,42.327462,
+468,,Lower Geneganslet Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.805349,42.299159,
+469,,Winston Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.737331,42.280822,
+470,,Upper Page Brook Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.712494,42.294543,
+471,,Elliott Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.763175,42.259051,
+472,,Oak Grove Cemetery,,,,cemetery,Greene,,,,,,,,record,,,,-75.828423,42.249515,
+473,,Shumway Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.475258,42.452608,
+474,,Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.504019,42.412498,
+477,,Town Of Guilford,,,,cemetery,Guilford,,,,,,,,record,,,,-75.381843,42.4259,
+478,,Mount Upton Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.380312,42.415103,
+479,,Gospel Hill Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.515437,42.406124,
+481,,Guilford Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.497887,42.407959,
+482,,Rockdale Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.404963,42.390102,
+483,,Ives Settlement Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.45867,42.378787,
+484,,Trestle Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.438931,42.377396,
+485,,Yale Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.512998,42.34937,
+486,,Yaleville Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.500625,42.361347,
+487,,Cooper Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.489239,42.347751,
+488,,White Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.452381,42.359015,
+489,,East Guilford Cemetery,,,,cemetery,Guilford,,,,,,,,record,,,,-75.405863,42.340929,
+493,,Guilford Historical Society,,,,cemetery,Guilford,,,,,,,,record,,,,-75.516369,42.391553,
+494,,Red School House Cemetery,,,,cemetery,Lincklaen,,,,,,,,record,,,,-75.887274,42.719215,
+495,,Lincklaen Center Cemetery,,,,cemetery,Lincklaen,,,,,,,,record,,,,-75.84954,42.710026,
+496,,Woodlawn Cemetery,,,,cemetery,Lincklaen,,,,,,,,record,,,,-75.870564,42.672199,
+498,,Freeman Cemetery,,,,cemetery,Lincklaen,,,,,,,,record,,,,-75.85797,42.645863,
+499,,Union Cemetery,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.771623,42.501245,
+500,,Miller-Gale Cemetery,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.687478,42.511775,
+501,,Lewis Cemetery,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.768055,42.49987,
+502,,Presbyterian Cemetery,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.768118,42.499604,
+503,,Corbin Cemetary,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.684951,42.482334,
+504,,Moore Cemetery,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.686203,42.466615,
+505,,Steere Cemetery,,,,cemetery,Mcdonough,,,,,,,,record,,,,-75.669835,42.525485,
+507,,Fairview Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.335535,42.621522,
+509,,Medbury Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.382341,42.629107,
+510,,Dyer Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.415513,42.612034,
+512,,Wightman Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.401197,42.562265,
+514,,Rich Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.399865,42.537654,
+516,,Holmesville Cemetery,,,,cemetery,New Berlin,,,,,,,,record,,,,-75.399199,42.516958,
+517,,North Norwich Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.519194,42.619322,
+518,,King Settlement Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.46357,42.594725,
+519,,Buell Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.458283,42.601237,
+520,,Plasterville Cemetery,,,,cemetery,North Norwich,,,,,,,,record,,,,-75.522291,42.585918,
+521,,Aldrich Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.544808,42.551704,
+523,,St Paul Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.528087,42.554915,
+524,,Woods Corner Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.519135,42.556649,
+530,,Burlingame Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.510444,42.519247,
+531,,Hoag Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.450603,42.482175,
+532,,White Store Cemetery,,,,cemetery,Norwich,,,,,,,,record,,,,-75.406052,42.483653,
+533,,Maple Grove Cemetery,,,,cemetery,Otselic,,,,,,,,record,,,,-75.730647,42.710813,
+534,,7th Day Hollow Baptist Cemeter,,,,cemetery,Otselic,,,,,,,,record,,,,-75.761458,42.684667,
+536,,Tallett Hill Cemetery,,,,cemetery,Otselic,,,,,,,,record,,,,-75.7251591805606,42.6656376660705,
+537,,Cole Hill Cemetery,,,,cemetery,Otselic,,,,,,,,record,,,,-75.686803,42.650199,
+541,,Riverview Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.585412,42.442729,
+542,,Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.580447,42.459216,
+545,,Van Wagener Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.579138,42.446507,
+547,,Millbrook Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.623142,42.42918,
+548,,Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.535645,42.407973,
+549,,Little Falls Burying Ground,,,,cemetery,Oxford,,,,,,,,record,,,,-75.60401,42.39419,
+551,,Tenbroeck Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.655008,42.376169,
+552,,Cemetery,,,,cemetery,Oxford,,,,,,,,record,,,,-75.522222,42.375258,
+553,,"LeGar, Martha",,,,cemetery,Oxford,,,,,,,,record,,,,-75.643104,42.422891,
+554,,Northwest Corners Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.772683,42.629722,
+555,,Center Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.752648,42.599419,
+556,,Wayside Rest Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.784737,42.578024,
+557,,East Pharsalia Cemetery,,,,cemetery,Pharsalia,,,,,,,,record,,,,-75.7177,42.556321,
+558,,Pink Hill Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.861373,42.623524,
+559,,North Pitcher Episcopal Church Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.818186,42.625079,
+560,,Ufford Cemetery,,,,cemetery,Pitcher,,,,,,,,record,,,,-75.808688,42.630212,
+563,,Presbyterian Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.606031,42.619668,
+564,,South Side Plymouth Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.597815,42.615471,
+566,,Heady's Corners (Heady) Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.6178,42.560058,
+567,,Levee Cemetery,,,,cemetery,Plymouth,,,,,,,,record,,,,-75.646851,42.596888,
+568,,Daniels Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.666529,42.550152,
+569,,J D Lewis Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.638654,42.530715,
+570,,Packer Mason Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.598183,42.536438,
+571,,Brown Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.633996,42.509734,
+572,,Rogers Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.633577,42.507535,
+573,,Rogers Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.63336,42.494963,
+574,,Lewis Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.565583,42.486443,
+575,,Whispering Pines Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.564039,42.483117,
+576,,Mason-Packer Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.590492,42.4898,
+577,,Turner Cemetery,,,,cemetery,Preston,,,,,,,,record,,,,-75.574856,42.497246,
+578,,St Malachy's Church,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.49295,42.688391,
+582,,West Hill Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.532298,42.694589,
+583,,Sherburne Quarter,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.507088,42.693096,
+585,,East Hill Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.453883,42.691752,
+586,,Harrisville Cemetery,,,,cemetery,Sherburne,,,,,,,,record,,,,-75.46482,42.68028,
+588,,Waldon Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.774545,42.441094,
+589,,Perkins Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.759655,42.441696,
+590,,Clobridge Family Cemetery Corp,,,,cemetery,Smithville,,,,,,,,record,,,,-75.707457,42.448361,
+591,,Wilcox Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.664166,42.444027,
+592,,Loomis Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.664202,42.435191,
+596,,Cowles Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.729299,42.401503,
+597,,Knickerbocker Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.758495,42.399922,
+598,,Knickerbocker Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.758495,42.399922,
+599,,Miller Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.706142,42.410944,
+600,,Maple Grove Cemetery,,,,cemetery,Smithville,,,,,,,,record,,,,-75.808871,42.388384,
+601,,West Cemetery Of Smyrna,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.574989,42.686845,
+602,,Smyrna East Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.565102,42.688056,
+604,,Wilcox Cemetery,,,,cemetery,Smyrna,,,,,,,,record,,,,-75.553405,42.721301,
+606,,"Dehne, Perry",,,,cemetery,Smyrna,,,,,,,,record,,,,-75.593629,42.708249,

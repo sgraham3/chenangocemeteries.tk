@@ -8,10 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="/objects/about_banner.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+## About Chenangocemeteries.tk
 
-## About the Collection
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Over the years numerous people have worked to survey all the cemeteries in Chenango County.This site is my attempt to create a searchable collection of cemeteries collected from multiple sources and compiled into a project to create a more complete digital collection and mapping. 
